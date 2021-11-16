@@ -1,0 +1,468 @@
+,O*NET-SOC Code,Title,Example,Commodity Code,Commodity Title
+363,11-9013.00,"Farmers, Ranchers, and Other Agricultural Managers",Field watering systems,21102502,Irrigation overheads
+403,11-9013.00,"Farmers, Ranchers, and Other Agricultural Managers",Light evaluation meters,41115309,Lux or light meter
+670,11-9161.00,Emergency Management Directors,Protective hoods,46181710,Protective hood
+678,11-9171.00,Funeral Home Managers,Cannula sets,42293501,Irrigation or suction handpieces or cannulas or tips or catheters
+719,11-9171.00,Funeral Home Managers,Trocars,42291635,Surgical trocars for general use
+1039,13-1041.06,Coroners,Protective coveralls,42131601,Medical staff aprons or bibs
+1048,13-1041.06,Coroners,Surgical masks,42131713,Surgical isolation or surgical masks
+2534,17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Light meters,41115309,Lux or light meter
+2658,17-2112.00,Industrial Engineers,Oxygen uptake measurement devices,42271515,Respiratory monitoring kit accessories
+2706,17-2112.01,Human Factors Engineers and Ergonomists,Light meters,41115309,Lux or light meter
+3488,17-2199.11,Solar Energy Systems Engineers,Ultrasonic cleaners,42282017,Ultrasonic cleaning equipment
+3855,17-3024.00,Electro-Mechanical and Mechatronics Technologists and Technicians,DroneDeploy,25201604,Aircraft guidance systems
+3867,17-3024.00,Electro-Mechanical and Mechatronics Technologists and Technicians,Hyperspectral imaging equipment,41115402,Spectrographs
+3882,17-3024.00,Electro-Mechanical and Mechatronics Technologists and Technicians,Multispectral imaging equipment,41115408,Infrared spectrometers
+3904,17-3024.00,Electro-Mechanical and Mechatronics Technologists and Technicians,Thermal cameras,41115325,Thermal imager
+3907,17-3024.00,Electro-Mechanical and Mechatronics Technologists and Technicians,Three-dimensional prototyping printers,23261507,Three dimensional printing machine
+4108,17-3025.00,Environmental Engineering Technologists and Technicians,Ultrasonic cleaners,42282017,Ultrasonic cleaning equipment
+4342,17-3026.01,Nanotechnology Engineering Technologists and Technicians,Ultrasonic cleaners,42282017,Ultrasonic cleaning equipment
+4593,17-3029.01,Non-Destructive Testing Specialists,Light meters,41115309,Lux or light meter
+5090,19-1021.00,Biochemists and Biophysicists,Biological safety hoods,46181710,Protective hood
+5175,19-1021.00,Biochemists and Biophysicists,Microdosimeters,42203901,Medical radiation dosimeters
+5233,19-1021.00,Biochemists and Biophysicists,Ultrasonic cleaners,42282017,Ultrasonic cleaning equipment
+5259,19-1022.00,Microbiologists,Biological safety hoods,46181710,Protective hood
+5761,19-1031.03,Park Naturalists,High-pressure pumper units,25101704,Fire fighting pump truck
+6114,19-2021.00,Atmospheric and Space Scientists,Light meters,41115309,Lux or light meter
+6422,19-2032.00,Materials Scientists,Ultrasonic cleaners,42282017,Ultrasonic cleaning equipment
+6671,19-2042.00,"Geoscientists, Except Hydrologists and Geographers",Ultrasonic sieve cleaners,42282017,Ultrasonic cleaning equipment
+6718,19-2043.00,Hydrologists,Light density meters,41115309,Lux or light meter
+6758,19-2099.01,Remote Sensing Scientists and Technologists,Airfield lighting equipment,39111612,Area lighting
+6759,19-2099.01,Remote Sensing Scientists and Technologists,Anemometers,41114401,Anemometers
+6766,19-2099.01,Remote Sensing Scientists and Technologists,Global positioning system GPS devices,52161518,Global positioning system GPS receiver
+6767,19-2099.01,Remote Sensing Scientists and Technologists,Ground control targets,25202204,Landing gear assemblies
+6772,19-2099.01,Remote Sensing Scientists and Technologists,Multimeters,41113630,Multimeters
+6775,19-2099.01,Remote Sensing Scientists and Technologists,Power generators,26111604,Gas generators
+6778,19-2099.01,Remote Sensing Scientists and Technologists,Spectrum analyzers,41115303,Frequency analyzers
+6780,19-2099.01,Remote Sensing Scientists and Technologists,Tablet computers,43211509,Tablet computers
+6782,19-2099.01,Remote Sensing Scientists and Technologists,Two way radios,43191510,Two way radios
+7009,19-3091.00,Anthropologists and Archeologists,Ultrasonic cleaning machines,42282017,Ultrasonic cleaning equipment
+7403,19-4021.00,Biological Technicians,Ultrasonic cleaners,42282017,Ultrasonic cleaning equipment
+7993,19-4071.00,Forest and Conservation Technicians,Wildland fire pumper trucks,25101704,Fire fighting pump truck
+8039,19-4092.00,Forensic Science Technicians,Medical hemostats,42294913,Endoscopic hemostatic balloons or needles or tubes or accessories
+8057,19-4092.00,Forensic Science Technicians,Protective masks,42131713,Surgical isolation or surgical masks
+8121,19-4099.03,Remote Sensing Technicians,Airfield lighting equipment,39111612,Area lighting
+8122,19-4099.03,Remote Sensing Technicians,Anemometers,41114401,Anemometers
+8133,19-4099.03,Remote Sensing Technicians,Ground control targets,25202204,Landing gear assemblies
+8140,19-4099.03,Remote Sensing Technicians,Multimeters,41113630,Multimeters
+8145,19-4099.03,Remote Sensing Technicians,Power generators,26111604,Gas generators
+8147,19-4099.03,Remote Sensing Technicians,Spectrum analyzers,41115303,Frequency analyzers
+8149,19-4099.03,Remote Sensing Technicians,Tablet computers,43211509,Tablet computers
+8152,19-4099.03,Remote Sensing Technicians,Two way radios,43191510,Two way radios
+8260,19-5012.00,Occupational Health and Safety Technicians,Light meters,41115309,Lux or light meter
+8269,19-5012.00,Occupational Health and Safety Technicians,Oxygen monitors,42271515,Respiratory monitoring kit accessories
+8826,25-1043.00,"Forestry and Conservation Science Teachers, Postsecondary",Protective ear plugs,46181905,Ear plugs
+8973,25-1052.00,"Chemistry Teachers, Postsecondary",Ultrasonic cleaners,42282017,Ultrasonic cleaning equipment
+9371,25-1071.00,"Health Specialties Teachers, Postsecondary",Biohazard containers,42192802,Needle or blade or sharps disposal containers or carts
+9489,25-1071.00,"Health Specialties Teachers, Postsecondary",Protective medical face masks,42131713,Surgical isolation or surgical masks
+9520,25-1071.00,"Health Specialties Teachers, Postsecondary",Ultrasonic sterilization units,42282017,Ultrasonic cleaning equipment
+9526,25-1071.00,"Health Specialties Teachers, Postsecondary",Video endoscopy equipment,42296408,Endoscopic video cameras or recorders or adapters or accessories
+9571,25-1072.00,"Nursing Instructors and Teachers, Postsecondary",Drainage tubes,42295475,Surgical drain or set accessories
+9600,25-1072.00,"Nursing Instructors and Teachers, Postsecondary",Medical scissors,42291614,Surgical scissors
+9601,25-1072.00,"Nursing Instructors and Teachers, Postsecondary",Medical staple removers,42312018,Skin staple removers or kits
+9641,25-1072.00,"Nursing Instructors and Teachers, Postsecondary",Straight hemostats,42294913,Endoscopic hemostatic balloons or needles or tubes or accessories
+9657,25-1072.00,"Nursing Instructors and Teachers, Postsecondary",Ventricular assist devices VAD,42295552,Ventricular assist devices
+10641,25-2032.00,"Career/Technical Education Teachers, Secondary School",Protective ear plugs,46181905,Ear plugs
+10745,25-2055.00,"Special Education Teachers, Kindergarten",Oral suction tubes,42293515,Medical or surgical suction tubings
+10804,25-2056.00,"Special Education Teachers, Elementary School",Oral suction tubes,42293515,Medical or surgical suction tubings
+10855,25-2057.00,"Special Education Teachers, Middle School",Oral suction tubes,42293515,Medical or surgical suction tubings
+10906,25-2058.00,"Special Education Teachers, Secondary School",Oral suction tubes,42293515,Medical or surgical suction tubings
+11031,25-4012.00,Curators,Light meters,41115309,Lux or light meter
+11210,25-9043.00,"Teaching Assistants, Special Education",Oral suction tubes,42293515,Medical or surgical suction tubings
+11389,27-1012.00,Craft Artists,Hearing protection plugs,46181905,Ear plugs
+12406,27-4031.00,"Camera Operators, Television, Video, and Film",Digital light meters,41115309,Lux or light meter
+12417,27-4031.00,"Camera Operators, Television, Video, and Film",Flash memory data storage devices,43202005,Flash memory storage card
+12429,27-4031.00,"Camera Operators, Television, Video, and Film",Power generators,26111604,Gas generators
+12433,27-4031.00,"Camera Operators, Television, Video, and Film",Safety barriers,46161508,Traffic cones or delineators
+12510,29-1011.00,Chiropractors,Rhinoscopes,42182012,Nasal exam specula or dilators
+12548,29-1021.00,"Dentists, General",Band setters,42152722,Orthodontic band drivers or pushers or setters
+12569,29-1021.00,"Dentists, General",Cricothyrotomy devices,42171808,Mobile medical services non-suction antichoke devices
+12618,29-1021.00,"Dentists, General",Endodontic obturating cones,42152476,Endodontic kits
+12656,29-1021.00,"Dentists, General",Occlusal force analysis systems,42153004,Dental pressure indicating kits
+12702,29-1021.00,"Dentists, General",Sharpening stones,42152912,Dental instrument sharpening accessories
+12732,29-1021.00,"Dentists, General",Ultrasonic cleaners,42282017,Ultrasonic cleaning equipment
+12746,29-1022.00,Oral and Maxillofacial Surgeons,Bandage scissors,42291614,Surgical scissors
+12862,29-1022.00,Oral and Maxillofacial Surgeons,Surgical masks,42131713,Surgical isolation or surgical masks
+12870,29-1022.00,Oral and Maxillofacial Surgeons,Ultrasonic sterilization units,42282017,Ultrasonic cleaning equipment
+12880,29-1023.00,Orthodontists,Band pushers,42152722,Orthodontic band drivers or pushers or setters
+12930,29-1023.00,Orthodontists,Surgical masks,42131713,Surgical isolation or surgical masks
+12934,29-1023.00,Orthodontists,Ultrasonic cleaners,42282017,Ultrasonic cleaning equipment
+12939,29-1024.00,Prosthodontists,Anesthetic injectors,42153001,Dental anesthesia sets
+12941,29-1024.00,Prosthodontists,Band pushers,42152722,Orthodontic band drivers or pushers or setters
+12994,29-1024.00,Prosthodontists,Rotary cutting instruments,42152907,Dental cutting or separating discs
+13002,29-1024.00,Prosthodontists,Surgical masks,42131713,Surgical isolation or surgical masks
+13053,29-1041.00,Optometrists,Lachrymal dilators,42294533,Ophthalmic lachrymal probes
+13072,29-1041.00,Optometrists,Retinal cameras,42183403,Fundus cameras
+13073,29-1041.00,Optometrists,Retinoscopes,42183503,Ophthalmic retinoscopes
+13075,29-1041.00,Optometrists,Scleral depressors,42294537,Scleral shells
+13128,29-1071.00,Physician Assistants,Anoscopes,42182001,Anal or rectal exam speculas
+13132,29-1071.00,Physician Assistants,Aspirating needles,42142520,Dispensing pins or needles
+13153,29-1071.00,Physician Assistants,Endoscopic camera/video systems,42296408,Endoscopic video cameras or recorders or adapters or accessories
+13177,29-1071.00,Physician Assistants,Nail nippers,42291609,Surgical nippers
+13210,29-1071.00,Physician Assistants,Tracheal suctioning equipment,42293522,Medical or surgical suction or vacuum appliances
+13211,29-1071.00,Physician Assistants,Trocars,42291635,Surgical trocars for general use
+13233,29-1071.01,Anesthesiologist Assistants,Echocardiography equipment,42201724,Medical ultrasound or doppler or echocardiograph transducer accessories
+13235,29-1071.01,Anesthesiologist Assistants,Electromyographs EMG,42182308,Electroencephalograph EEGs
+13249,29-1071.01,Anesthesiologist Assistants,Oxygen saturation monitors,42271515,Respiratory monitoring kit accessories
+13264,29-1081.00,Podiatrists,Biopsy punches,42291713,Surgical punches or punch holders
+13274,29-1081.00,Podiatrists,Cryoprobes,42296502,Cryosurgery units
+13277,29-1081.00,Podiatrists,Cuticle nippers,42291609,Surgical nippers
+13323,29-1081.00,Podiatrists,Surgical masks,42131713,Surgical isolation or surgical masks
+13339,29-1081.00,Podiatrists,Ultrasonic cleaners,42282017,Ultrasonic cleaning equipment
+13678,29-1126.00,Respiratory Therapists,Bronchoscopes,42296305,Bronchoscopes
+13701,29-1126.00,Respiratory Therapists,Medical suction equipment,42293522,Medical or surgical suction or vacuum appliances
+13711,29-1126.00,Respiratory Therapists,Oxygen monitors,42271515,Respiratory monitoring kit accessories
+13773,29-1128.00,Exercise Physiologists,Echocardiography systems,42201724,Medical ultrasound or doppler or echocardiograph transducer accessories
+13795,29-1128.00,Exercise Physiologists,Oxygen analyzers,42271515,Respiratory monitoring kit accessories
+13809,29-1128.00,Exercise Physiologists,Whole body air plethysmography systems,42181540,Body plethysmographs
+13867,29-1131.00,Veterinarians,Biopsy punches,42291713,Surgical punches or punch holders
+13888,29-1131.00,Veterinarians,Cryosurgery units,42296502,Cryosurgery units
+13912,29-1131.00,Veterinarians,Echocardiogram equipment,42201724,Medical ultrasound or doppler or echocardiograph transducer accessories
+13932,29-1131.00,Veterinarians,Hemostats,42294913,Endoscopic hemostatic balloons or needles or tubes or accessories
+13946,29-1131.00,Veterinarians,Laparoscopic equipment,42296323,Laparoscopes or laparoscopic telescopes
+13965,29-1131.00,Veterinarians,Needle holders,42292903,Surgical needle holders
+14015,29-1131.00,Veterinarians,Ultrasonic instrument cleaners,42282017,Ultrasonic cleaning equipment
+14045,29-1141.00,Registered Nurses,Bag-valve masks,42272220,Ventilator accessories
+14063,29-1141.00,Registered Nurses,Colonoscopy equipment,42296308,Colonoscopes
+14080,29-1141.00,Registered Nurses,Epidural catheters,42142535,Anesthesia nerve block kit or tray
+14086,29-1141.00,Registered Nurses,Flexible sigmoidoscopes,42296337,Sigmoidoscopes
+14088,29-1141.00,Registered Nurses,Gastrointestinal GI endoscopes,42296317,Esophagogastroduodenoscopes or gastroduodenoscopes or gastroscopes
+14141,29-1141.00,Registered Nurses,One-way valve protective shields,42172103,Mobile resuscitator or aspirator kits
+14165,29-1141.00,Registered Nurses,Pleuravacs,42293523,Medical or surgical suction sets or kits
+14179,29-1141.00,Registered Nurses,Staple removers,42312018,Skin staple removers or kits
+14185,29-1141.00,Registered Nurses,Surgical lights,42294972,Endoscopic or surgical light sources
+14214,29-1141.00,Registered Nurses,Ventricular assist devices VAD,42295552,Ventricular assist devices
+14232,29-1141.01,Acute Care Nurses,Bronchoscopes,42296305,Bronchoscopes
+14235,29-1141.01,Acute Care Nurses,Cast carts,42192409,Cast or splint carts or stands
+14244,29-1141.01,Acute Care Nurses,Doppler ultrasound equipment,42201724,Medical ultrasound or doppler or echocardiograph transducer accessories
+14253,29-1141.01,Acute Care Nurses,Epidural catheters,42142535,Anesthesia nerve block kit or tray
+14256,29-1141.01,Acute Care Nurses,Fetal monitors,42143120,Acute care fetal or maternal monitoring units
+14257,29-1141.01,Acute Care Nurses,Fiberoptic endoscopes,42294914,Endoscopic instrument sets
+14264,29-1141.01,Acute Care Nurses,Incision drainage equipment,42295453,Surgical drains or drain sets
+14321,29-1141.01,Acute Care Nurses,Straight hemostats,42294913,Endoscopic hemostatic balloons or needles or tubes or accessories
+14326,29-1141.01,Acute Care Nurses,Surgical staple removers,42312018,Skin staple removers or kits
+14403,29-1141.03,Critical Care Nurses,Epidural catheters,42142535,Anesthesia nerve block kit or tray
+14405,29-1141.03,Critical Care Nurses,Fetal monitors,42143120,Acute care fetal or maternal monitoring units
+14419,29-1141.03,Critical Care Nurses,Incision drainage equipment,42295453,Surgical drains or drain sets
+14465,29-1141.03,Critical Care Nurses,Straight hemostats,42294913,Endoscopic hemostatic balloons or needles or tubes or accessories
+14470,29-1141.03,Critical Care Nurses,Surgical staple removers,42312018,Skin staple removers or kits
+14489,29-1141.03,Critical Care Nurses,Ventricular assist devices VAD,42295552,Ventricular assist devices
+14506,29-1141.04,Clinical Nurse Specialists,Bronchoscopes,42296305,Bronchoscopes
+14509,29-1141.04,Clinical Nurse Specialists,Cast carts,42192409,Cast or splint carts or stands
+14518,29-1141.04,Clinical Nurse Specialists,Doppler ultrasound equipment,42201724,Medical ultrasound or doppler or echocardiograph transducer accessories
+14527,29-1141.04,Clinical Nurse Specialists,Epidural catheters,42142535,Anesthesia nerve block kit or tray
+14530,29-1141.04,Clinical Nurse Specialists,Fetal monitors,42143120,Acute care fetal or maternal monitoring units
+14531,29-1141.04,Clinical Nurse Specialists,Fiberoptic endoscopes,42294914,Endoscopic instrument sets
+14538,29-1141.04,Clinical Nurse Specialists,Incision drainage equipment,42295453,Surgical drains or drain sets
+14595,29-1141.04,Clinical Nurse Specialists,Straight hemostats,42294913,Endoscopic hemostatic balloons or needles or tubes or accessories
+14600,29-1141.04,Clinical Nurse Specialists,Surgical staple removers,42312018,Skin staple removers or kits
+14646,29-1151.00,Nurse Anesthetists,Fiberoptic bronchoscopes,42296305,Bronchoscopes
+14668,29-1151.00,Nurse Anesthetists,Protective face shields,42131713,Surgical isolation or surgical masks
+14688,29-1161.00,Nurse Midwives,Fetal doppler units,42201724,Medical ultrasound or doppler or echocardiograph transducer accessories
+14689,29-1161.00,Nurse Midwives,Fetal heart rate monitors,42143120,Acute care fetal or maternal monitoring units
+14708,29-1161.00,Nurse Midwives,Protective face shields,42131713,Surgical isolation or surgical masks
+14715,29-1161.00,Nurse Midwives,Suction catheters,42293501,Irrigation or suction handpieces or cannulas or tips or catheters
+14726,29-1161.00,Nurse Midwives,Vaginal ultrasound probes,42201706,Medical ultrasound or doppler or echocardiograph probes
+14736,29-1171.00,Nurse Practitioners,Biopsy punches,42291713,Surgical punches or punch holders
+14740,29-1171.00,Nurse Practitioners,Cardiopulmonary resuscitation CPR face shields,42172103,Mobile resuscitator or aspirator kits
+14746,29-1171.00,Nurse Practitioners,Doppler ultrasound equipment,42201724,Medical ultrasound or doppler or echocardiograph transducer accessories
+14751,29-1171.00,Nurse Practitioners,Epidural catheters,42142535,Anesthesia nerve block kit or tray
+14753,29-1171.00,Nurse Practitioners,Fiberoptic endoscopes,42294914,Endoscopic instrument sets
+14755,29-1171.00,Nurse Practitioners,Flexible sigmoidoscopes,42296337,Sigmoidoscopes
+14801,29-1171.00,Nurse Practitioners,Protective face shields,42131713,Surgical isolation or surgical masks
+14814,29-1171.00,Nurse Practitioners,Surgical staple removers,42312018,Skin staple removers or kits
+14830,29-1171.00,Nurse Practitioners,Ventricular assist devices VAD,42295552,Ventricular assist devices
+14842,29-1181.00,Audiologists,Digital light bars,42182601,Freestanding medical exam lights or lamps
+14883,29-1211.00,Anesthesiologists,Cricothyrotomy equipment,42171808,Mobile medical services non-suction antichoke devices
+14890,29-1211.00,Anesthesiologists,Epidural catheters,42142535,Anesthesia nerve block kit or tray
+14893,29-1211.00,Anesthesiologists,Fiberoptic bronchoscopes,42296305,Bronchoscopes
+14902,29-1211.00,Anesthesiologists,Medical masks,42131713,Surgical isolation or surgical masks
+14910,29-1211.00,Anesthesiologists,Plethysmography machines,42181540,Body plethysmographs
+14915,29-1211.00,Anesthesiologists,Suction machines,42293522,Medical or surgical suction or vacuum appliances
+14939,29-1213.00,Dermatologists,Electrical suction pumps,42293522,Medical or surgical suction or vacuum appliances
+14950,29-1213.00,Dermatologists,Medical nail nippers,42291609,Surgical nippers
+14958,29-1213.00,Dermatologists,Serrated hemostats,42294913,Endoscopic hemostatic balloons or needles or tubes or accessories
+14982,29-1215.00,Family Medicine Physicians,Cryosurgical units,42296502,Cryosurgery units
+14995,29-1215.00,Family Medicine Physicians,Fetal doppler units,42201724,Medical ultrasound or doppler or echocardiograph transducer accessories
+14996,29-1215.00,Family Medicine Physicians,Fetal monitors,42143120,Acute care fetal or maternal monitoring units
+15030,29-1215.00,Family Medicine Physicians,Suction catheters,42293501,Irrigation or suction handpieces or cannulas or tips or catheters
+15031,29-1215.00,Family Medicine Physicians,Suction machines,42293522,Medical or surgical suction or vacuum appliances
+15053,29-1216.00,General Internal Medicine Physicians,Cryosurgical units,42296502,Cryosurgery units
+15063,29-1216.00,General Internal Medicine Physicians,Flexible fiberoptic endoscopes,42294914,Endoscopic instrument sets
+15087,29-1216.00,General Internal Medicine Physicians,Suction catheters,42293501,Irrigation or suction handpieces or cannulas or tips or catheters
+15088,29-1216.00,General Internal Medicine Physicians,Suction machines,42293522,Medical or surgical suction or vacuum appliances
+15146,29-1218.00,Obstetricians and Gynecologists,Cryosurgical units,42296502,Cryosurgery units
+15157,29-1218.00,Obstetricians and Gynecologists,Fetal doppler units,42201724,Medical ultrasound or doppler or echocardiograph transducer accessories
+15158,29-1218.00,Obstetricians and Gynecologists,Fetal monitors,42143120,Acute care fetal or maternal monitoring units
+15167,29-1218.00,Obstetricians and Gynecologists,Laparascopes,42296323,Laparoscopes or laparoscopic telescopes
+15208,29-1218.00,Obstetricians and Gynecologists,Surgical staple removers,42312018,Skin staple removers or kits
+15219,29-1218.00,Obstetricians and Gynecologists,Uterine depressors,42293309,Surgical depressors
+15228,29-1218.00,Obstetricians and Gynecologists,Vaginal ultrasound probes,42201706,Medical ultrasound or doppler or echocardiograph probes
+15230,29-1221.00,"Pediatricians, General",Arterial line catheters,42221501,Arterial line catheters
+15253,29-1221.00,"Pediatricians, General",Fetal doppler units,42201724,Medical ultrasound or doppler or echocardiograph transducer accessories
+15254,29-1221.00,"Pediatricians, General",Fetal monitors,42143120,Acute care fetal or maternal monitoring units
+15256,29-1221.00,"Pediatricians, General",Hemostats,42294913,Endoscopic hemostatic balloons or needles or tubes or accessories
+15286,29-1221.00,"Pediatricians, General",Pediatric bronchoscopes,42296305,Bronchoscopes
+15299,29-1221.00,"Pediatricians, General",Suction catheters,42293501,Irrigation or suction handpieces or cannulas or tips or catheters
+15300,29-1221.00,"Pediatricians, General",Suction machines,42293522,Medical or surgical suction or vacuum appliances
+15357,29-1222.00,"Physicians, Pathologists",Lumbar puncture needles,42142535,Anesthesia nerve block kit or tray
+15424,29-1224.00,Radiologists,Medical safety masks,42131713,Surgical isolation or surgical masks
+15464,29-1229.01,Allergists and Immunologists,Medical suction pumps,42293522,Medical or surgical suction or vacuum appliances
+15498,29-1229.02,Hospitalists,Echocardiography systems,42201724,Medical ultrasound or doppler or echocardiograph transducer accessories
+15505,29-1229.02,Hospitalists,Fine biopsy needles,42294903,Endoscopic aspiration or biopsy needles
+15507,29-1229.02,Hospitalists,Flexible endoscopes,42294914,Endoscopic instrument sets
+15508,29-1229.02,Hospitalists,Flexible sigmoidoscopes,42296337,Sigmoidoscopes
+15549,29-1229.02,Hospitalists,Trocars,42291635,Surgical trocars for general use
+15551,29-1229.02,Hospitalists,Ultrasound catheters,42201706,Medical ultrasound or doppler or echocardiograph probes
+15557,29-1229.03,Urologists,Catheter forceps,42291802,Surgical clamps or clips or forceps
+15564,29-1229.03,Urologists,Electromyographs EMG,42182308,Electroencephalograph EEGs
+15569,29-1229.03,Urologists,Laparoscopes,42296323,Laparoscopes or laparoscopic telescopes
+15575,29-1229.03,Urologists,Renal endoscopes,42296328,Nephroscopes
+15576,29-1229.03,Urologists,Resectoscopes,42296335,Resectoscopes
+15600,29-1229.04,Physical Medicine and Rehabilitation Physicians,Electromyographs EMG,42182308,Electroencephalograph EEGs
+15602,29-1229.04,Physical Medicine and Rehabilitation Physicians,Epidural injection syringes,42142535,Anesthesia nerve block kit or tray
+15646,29-1229.05,Preventive Medicine Physicians,Medical protective masks,42131713,Surgical isolation or surgical masks
+15710,29-1241.00,"Ophthalmologists, Except Pediatric",Iris forceps,42291802,Surgical clamps or clips or forceps
+15712,29-1241.00,"Ophthalmologists, Except Pediatric",Keratometers,42183501,Keratoscopes
+15713,29-1241.00,"Ophthalmologists, Except Pediatric",Lacrimal probes,42294533,Ophthalmic lachrymal probes
+15715,29-1241.00,"Ophthalmologists, Except Pediatric",Lens expressors,42294516,Eye holders
+15717,29-1241.00,"Ophthalmologists, Except Pediatric",Lid retractors,42294505,Lid plates for ophthalmic surgery
+15724,29-1241.00,"Ophthalmologists, Except Pediatric",Ophthalmic needle holders,42294509,Needles or cystomes for ophthalmic surgery
+15729,29-1241.00,"Ophthalmologists, Except Pediatric",Ophthalmic surgery retractors,42293107,Surgical retractors
+15737,29-1241.00,"Ophthalmologists, Except Pediatric",Retinometers,42183503,Ophthalmic retinoscopes
+15753,29-1242.00,"Orthopedic Surgeons, Except Pediatric",Autologous blood recovery systems,42294203,General surgical instrument sets
+15755,29-1242.00,"Orthopedic Surgeons, Except Pediatric",Balloon perfusion catheters,42295302,Surgical perfusion cannulas or catheters
+15758,29-1242.00,"Orthopedic Surgeons, Except Pediatric",Biopsy punches,42291713,Surgical punches or punch holders
+15765,29-1242.00,"Orthopedic Surgeons, Except Pediatric",Bronchoscopes,42296305,Bronchoscopes
+15796,29-1242.00,"Orthopedic Surgeons, Except Pediatric",Endoscopic catheters,42295440,Endoscopic catheter adapters
+15797,29-1242.00,"Orthopedic Surgeons, Except Pediatric",Endoscopic insufflators,42296406,Endoscopic insufflation or distention units or accessories
+15798,29-1242.00,"Orthopedic Surgeons, Except Pediatric",Endoscopic video cameras,42296408,Endoscopic video cameras or recorders or adapters or accessories
+15804,29-1242.00,"Orthopedic Surgeons, Except Pediatric",Flexible fiberoptic endoscopes,42294914,Endoscopic instrument sets
+15823,29-1242.00,"Orthopedic Surgeons, Except Pediatric",Laparascopes,42296323,Laparoscopes or laparoscopic telescopes
+15846,29-1242.00,"Orthopedic Surgeons, Except Pediatric",Periosteotomes,42296333,Peritoneoscopes
+15857,29-1242.00,"Orthopedic Surgeons, Except Pediatric",Resectoscopes,42296335,Resectoscopes
+15891,29-1242.00,"Orthopedic Surgeons, Except Pediatric",Surgical masks,42131713,Surgical isolation or surgical masks
+15908,29-1242.00,"Orthopedic Surgeons, Except Pediatric",Surgical trocars,42291635,Surgical trocars for general use
+15940,29-1243.00,Pediatric Surgeons,Autologous blood recovery systems,42294203,General surgical instrument sets
+15942,29-1243.00,Pediatric Surgeons,Balloon perfusion catheters,42295302,Surgical perfusion cannulas or catheters
+15945,29-1243.00,Pediatric Surgeons,Biopsy punches,42291713,Surgical punches or punch holders
+15952,29-1243.00,Pediatric Surgeons,Bronchoscopes,42296305,Bronchoscopes
+15983,29-1243.00,Pediatric Surgeons,Endoscopic catheters,42295440,Endoscopic catheter adapters
+15984,29-1243.00,Pediatric Surgeons,Endoscopic insufflators,42296406,Endoscopic insufflation or distention units or accessories
+15985,29-1243.00,Pediatric Surgeons,Endoscopic video cameras,42296408,Endoscopic video cameras or recorders or adapters or accessories
+15991,29-1243.00,Pediatric Surgeons,Flexible fiberoptic endoscopes,42294914,Endoscopic instrument sets
+16010,29-1243.00,Pediatric Surgeons,Laparascopes,42296323,Laparoscopes or laparoscopic telescopes
+16033,29-1243.00,Pediatric Surgeons,Periosteotomes,42296333,Peritoneoscopes
+16044,29-1243.00,Pediatric Surgeons,Resectoscopes,42296335,Resectoscopes
+16078,29-1243.00,Pediatric Surgeons,Surgical masks,42131713,Surgical isolation or surgical masks
+16095,29-1243.00,Pediatric Surgeons,Surgical trocars,42291635,Surgical trocars for general use
+16130,29-1291.00,Acupuncturists,Biohazard containers,42192802,Needle or blade or sharps disposal containers or carts
+16150,29-1291.00,Acupuncturists,Hemostat clamps,42294913,Endoscopic hemostatic balloons or needles or tubes or accessories
+16203,29-1292.00,Dental Hygienists,Amalgam carriers,42151802,Dental material pluggers or tips
+16204,29-1292.00,Dental Hygienists,Angle formers,42152907,Dental cutting or separating discs
+16230,29-1292.00,Dental Hygienists,Instrument sharpening devices,42152912,Dental instrument sharpening accessories
+16234,29-1292.00,Dental Hygienists,Matrices/matrix retainers,42153002,Dental matrices or sets
+16252,29-1292.00,Dental Hygienists,Rotating caps,42152901,Attachments or replacement parts for dental instruments
+16258,29-1292.00,Dental Hygienists,Ultrasonic sterilization units,42282017,Ultrasonic cleaning equipment
+16283,29-1299.01,Naturopathic Physicians,Lumbar puncture equipment,42142535,Anesthesia nerve block kit or tray
+16295,29-1299.01,Naturopathic Physicians,Suction catheters,42293501,Irrigation or suction handpieces or cannulas or tips or catheters
+16335,29-1299.02,Orthoptists,Optokinetic drums,42183040,Opticians tools
+16342,29-1299.02,Orthoptists,Retinoscopes,42183503,Ophthalmic retinoscopes
+16378,29-2011.00,Medical and Clinical Laboratory Technologists,Butterfly needles,42142547,Winged infusion needle set
+16426,29-2011.00,Medical and Clinical Laboratory Technologists,Needle holders,41104138,Blood collection needle holders
+16497,29-2011.01,Cytogenetic Technologists,Masks,42131713,Surgical isolation or surgical masks
+16518,29-2011.01,Cytogenetic Technologists,Ultrasonic sterilization units,42282017,Ultrasonic cleaning equipment
+16539,29-2011.02,Cytotechnologists,Fine needles,42142520,Dispensing pins or needles
+16612,29-2012.00,Medical and Clinical Laboratory Technicians,Butterfly needles,42142547,Winged infusion needle set
+16652,29-2012.00,Medical and Clinical Laboratory Technicians,Needle holders,41104138,Blood collection needle holders
+16739,29-2031.00,Cardiovascular Technologists and Technicians,Coronary stents,42295912,Coronary stents
+16756,29-2031.00,Cardiovascular Technologists and Technicians,Guidewires,42293414,Introducer or guide pin or guidewire or glidewire or guide rod
+16758,29-2031.00,Cardiovascular Technologists and Technicians,Heart probes,42296302,Angioscopes
+16774,29-2031.00,Cardiovascular Technologists and Technicians,Light meters,41115309,Lux or light meter
+16795,29-2031.00,Cardiovascular Technologists and Technicians,Plethysmography machines,42181540,Body plethysmographs
+16826,29-2032.00,Diagnostic Medical Sonographers,Cardiac ultrasound equipment,42201724,Medical ultrasound or doppler or echocardiograph transducer accessories
+16842,29-2032.00,Diagnostic Medical Sonographers,Plethysmographs,42181540,Body plethysmographs
+16910,29-2033.00,Nuclear Medicine Technologists,Surgical masks,42131713,Surgical isolation or surgical masks
+17020,29-2035.00,Magnetic Resonance Imaging Technologists,Photoplethysmographs,42181540,Body plethysmographs
+17024,29-2035.00,Magnetic Resonance Imaging Technologists,Protective medical face masks,42131713,Surgical isolation or surgical masks
+17044,29-2042.00,Emergency Medical Technicians,Cricothyrotomy kits,42171808,Mobile medical services non-suction antichoke devices
+17078,29-2042.00,Emergency Medical Technicians,Medical suction catheters,42293501,Irrigation or suction handpieces or cannulas or tips or catheters
+17103,29-2042.00,Emergency Medical Technicians,Scalp vein needles,42142547,Winged infusion needle set
+17115,29-2042.00,Emergency Medical Technicians,Suction tubing,42293515,Medical or surgical suction tubings
+17118,29-2042.00,Emergency Medical Technicians,Tourniquets,42171506,Mobile medical services tourniquet or clamp
+17143,29-2043.00,Paramedics,Cricothyrotomy kits,42171808,Mobile medical services non-suction antichoke devices
+17177,29-2043.00,Paramedics,Medical suction catheters,42293501,Irrigation or suction handpieces or cannulas or tips or catheters
+17202,29-2043.00,Paramedics,Scalp vein needles,42142547,Winged infusion needle set
+17214,29-2043.00,Paramedics,Suction tubing,42293515,Medical or surgical suction tubings
+17217,29-2043.00,Paramedics,Tourniquets,42171506,Mobile medical services tourniquet or clamp
+17315,29-2053.00,Psychiatric Technicians,Suction machines,42293522,Medical or surgical suction or vacuum appliances
+17316,29-2053.00,Psychiatric Technicians,Surgical masks,42131713,Surgical isolation or surgical masks
+17327,29-2055.00,Surgical Technologists,Autologous blood recovery systems,42294203,General surgical instrument sets
+17332,29-2055.00,Surgical Technologists,Cardiovascular stents,42295912,Coronary stents
+17337,29-2055.00,Surgical Technologists,Cholangiocath catheters,42295473,Urological surgical catheter accessories
+17349,29-2055.00,Surgical Technologists,Doppler ultrasound equipment,42201724,Medical ultrasound or doppler or echocardiograph transducer accessories
+17355,29-2055.00,Surgical Technologists,Endoscopic camera/video systems,42296408,Endoscopic video cameras or recorders or adapters or accessories
+17377,29-2055.00,Surgical Technologists,Laparoscopes,42296323,Laparoscopes or laparoscopic telescopes
+17427,29-2055.00,Surgical Technologists,Surgical navigation systems,42295173,Surgical navigation system accessories
+17443,29-2055.00,Surgical Technologists,Ultrasonic cleaners,42282017,Ultrasonic cleaning equipment
+17449,29-2055.00,Surgical Technologists,Washer sanitizers,42282010,Medical equipment and instrument disinfectant washing equipment
+17488,29-2056.00,Veterinary Technologists and Technicians,Cricothyrotomy kits,42171808,Mobile medical services non-suction antichoke devices
+17576,29-2056.00,Veterinary Technologists and Technicians,Protective face shields,42131713,Surgical isolation or surgical masks
+17584,29-2056.00,Veterinary Technologists and Technicians,Scalp vein needles,42142547,Winged infusion needle set
+17609,29-2056.00,Veterinary Technologists and Technicians,Ultrasonic instrument cleaners,42282017,Ultrasonic cleaning equipment
+17670,29-2057.00,Ophthalmic Medical Technicians,Retinoscopes,42183503,Ophthalmic retinoscopes
+17691,29-2061.00,Licensed Practical and Licensed Vocational Nurses,Butterfly needles,42142547,Winged infusion needle set
+17774,29-2061.00,Licensed Practical and Licensed Vocational Nurses,Safety needles,42142520,Dispensing pins or needles
+17908,29-2091.00,Orthotists and Prosthetists,Surgical masks,42131713,Surgical isolation or surgical masks
+17935,29-2092.00,Hearing Aid Specialists,Hearing aid vacuum systems,42293522,Medical or surgical suction or vacuum appliances
+17954,29-2092.00,Hearing Aid Specialists,Ultrasonic cleaning systems,42282017,Ultrasonic cleaning equipment
+18018,29-2099.05,Ophthalmic Medical Technologists,Ophthalmic retinoscopes,42183503,Ophthalmic retinoscopes
+18032,29-2099.05,Ophthalmic Medical Technologists,Specular microscopes,42183402,Corneal cameras
+18102,29-9091.00,Athletic Trainers,One-way valve pocket masks,42172103,Mobile resuscitator or aspirator kits
+18150,29-9093.00,Surgical Assistants,Endoscopic camera/video systems,42296408,Endoscopic video cameras or recorders or adapters or accessories
+18154,29-9093.00,Surgical Assistants,Fiberoptic endoscopes,42294914,Endoscopic instrument sets
+18159,29-9093.00,Surgical Assistants,Hemostat clamps,42294913,Endoscopic hemostatic balloons or needles or tubes or accessories
+18163,29-9093.00,Surgical Assistants,Laparoscopes,42296323,Laparoscopes or laparoscopic telescopes
+18187,29-9093.00,Surgical Assistants,Surgical masks,42131713,Surgical isolation or surgical masks
+18193,29-9093.00,Surgical Assistants,Surgical trocars,42291635,Surgical trocars for general use
+18198,29-9093.00,Surgical Assistants,Wound drains,42295453,Surgical drains or drain sets
+18209,29-9099.01,Midwives,External fetal monitors,42143120,Acute care fetal or maternal monitoring units
+18210,29-9099.01,Midwives,Fetal doppler units,42201724,Medical ultrasound or doppler or echocardiograph transducer accessories
+18211,29-9099.01,Midwives,Hemostats,42294913,Endoscopic hemostatic balloons or needles or tubes or accessories
+18403,31-1133.00,Psychiatric Aides,Intubation suctioning kits,42293522,Medical or surgical suction or vacuum appliances
+18489,31-2011.00,Occupational Therapy Assistants,Surgical masks,42131713,Surgical isolation or surgical masks
+18621,31-2021.00,Physical Therapist Assistants,Surgical masks,42131713,Surgical isolation or surgical masks
+18677,31-9091.00,Dental Assistants,Amalgam carriers,42151802,Dental material pluggers or tips
+18698,31-9091.00,Dental Assistants,Dental cutting instruments,42152907,Dental cutting or separating discs
+18708,31-9091.00,Dental Assistants,Dental wedges,42153006,Dental wedges or sets
+18731,31-9091.00,Dental Assistants,Instrument sharpening devices,42152912,Dental instrument sharpening accessories
+18737,31-9091.00,Dental Assistants,Matrix bands,42152902,Bands for dental matrix
+18751,31-9091.00,Dental Assistants,Posterior matrices,42153002,Dental matrices or sets
+18775,31-9091.00,Dental Assistants,Ultrasonic sterilization units,42282017,Ultrasonic cleaning equipment
+18786,31-9092.00,Medical Assistants,Butterfly needles,42142547,Winged infusion needle set
+18802,31-9092.00,Medical Assistants,Flexible sigmoidoscopy equipment,42296337,Sigmoidoscopes
+18827,31-9092.00,Medical Assistants,Plethysmographs,42181540,Body plethysmographs
+18830,31-9092.00,Medical Assistants,Retinoscopes,42183503,Ophthalmic retinoscopes
+18836,31-9092.00,Medical Assistants,Staple removers,42312018,Skin staple removers or kits
+18838,31-9092.00,Medical Assistants,Suction machines,42293522,Medical or surgical suction or vacuum appliances
+18839,31-9092.00,Medical Assistants,Suction tubing,42293515,Medical or surgical suction tubings
+18858,31-9093.00,Medical Equipment Preparers,Cleaning or sterilizing scrubbing brushes,42295427,Surgical instrument brushes or instrument stylets or instrument wipes
+18859,31-9093.00,Medical Equipment Preparers,Computerized scope washers,42282001,Automated endoscope reprocessor systems AERs
+18875,31-9093.00,Medical Equipment Preparers,Protective caps,42131719,Surgical surgeon caps or hoods
+18876,31-9093.00,Medical Equipment Preparers,Protective ear plugs,46181905,Ear plugs
+18878,31-9093.00,Medical Equipment Preparers,Protective masks,42131713,Surgical isolation or surgical masks
+18886,31-9093.00,Medical Equipment Preparers,Ultrasonic cleaners,42282017,Ultrasonic cleaning equipment
+18917,31-9096.00,Veterinary Assistants and Laboratory Animal Caretakers,Bandage scissors,42291614,Surgical scissors
+18984,31-9097.00,Phlebotomists,Medical face masks,42131713,Surgical isolation or surgical masks
+18999,31-9097.00,Phlebotomists,Safety needles,42142520,Dispensing pins or needles
+19000,31-9097.00,Phlebotomists,Sharps disposal containers,42192802,Needle or blade or sharps disposal containers or carts
+19009,31-9097.00,Phlebotomists,Venipuncture butterfly needles,42142547,Winged infusion needle set
+19010,31-9097.00,Phlebotomists,Venipuncture needle holders,41104138,Blood collection needle holders
+19030,31-9099.01,Speech-Language Pathology Assistants,Electromyographs EMG,42182308,Electroencephalograph EEGs
+19049,31-9099.02,Endoscopy Technicians,Bronchoscopes,42296305,Bronchoscopes
+19055,31-9099.02,Endoscopy Technicians,Endoscopic image printers,42296407,Endoscopic printers or film or accessories
+19056,31-9099.02,Endoscopy Technicians,Endoscopic image recording systems,42296408,Endoscopic video cameras or recorders or adapters or accessories
+19061,31-9099.02,Endoscopy Technicians,Endoscopic water bottles,42296409,Endoscopic water bottles or accessories
+19065,31-9099.02,Endoscopy Technicians,Flexible sigmoidoscopes,42296337,Sigmoidoscopes
+19070,31-9099.02,Endoscopy Technicians,Medical safety masks,42131713,Surgical isolation or surgical masks
+19175,33-1021.00,First-Line Supervisors of Firefighting and Prevention Workers,Bomb response vehicles,25101714,Armored recovery vehicle
+19188,33-1021.00,First-Line Supervisors of Firefighting and Prevention Workers,Emergency suction kits,42171809,Mobile medical services suction antichoke devices
+19213,33-1021.00,First-Line Supervisors of Firefighting and Prevention Workers,HAZMAT response vehicles,25101706,Fire fighting chemical truck
+19220,33-1021.00,First-Line Supervisors of Firefighting and Prevention Workers,Ladder trucks,25101707,Fire fighting ladder truck
+19275,33-1021.00,First-Line Supervisors of Firefighting and Prevention Workers,Water tenders,25101705,Fire fighting water tank truck
+19299,33-2011.00,Firefighters,Bomb response vehicles,25101714,Armored recovery vehicle
+19319,33-2011.00,Firefighters,Emergency suction kits,42171809,Mobile medical services suction antichoke devices
+19364,33-2011.00,Firefighters,HAZMAT response vehicles,25101706,Fire fighting chemical truck
+19365,33-2011.00,Firefighters,Hearing protectors,46181905,Ear plugs
+19377,33-2011.00,Firefighters,Ladder trucks,25101707,Fire fighting ladder truck
+19418,33-2011.00,Firefighters,Protective hoods,46181710,Protective hood
+19424,33-2011.00,Firefighters,Pumper trucks,25101704,Fire fighting pump truck
+19524,33-2021.00,Fire Inspectors and Investigators,Firefighting hoods,46181710,Protective hood
+19667,33-3012.00,Correctional Officers and Jailers,Hearing protection plugs,46181905,Ear plugs
+19897,33-3051.00,Police and Sheriff's Patrol Officers,Cardiopulmonary resuscitation CPR face shields,42172103,Mobile resuscitator or aspirator kits
+19994,33-3052.00,Transit and Railroad Police,Cardiopulmonary resuscitation CPR face shields,42172103,Mobile resuscitator or aspirator kits
+20949,37-2011.00,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",Protective ear plugs,46181905,Ear plugs
+21129,37-3011.00,Landscaping and Groundskeeping Workers,Protective ear plugs,46181905,Ear plugs
+21233,37-3013.00,Tree Trimmers and Pruners,Protective ear plugs,46181905,Ear plugs
+21300,39-2011.00,Animal Trainers,Equine ear plugs,46181905,Ear plugs
+21569,39-4011.00,Embalmers,Protective hoods,46181710,Protective hood
+21570,39-4011.00,Embalmers,Protective medical face masks,42131713,Surgical isolation or surgical masks
+21669,39-4031.00,"Morticians, Undertakers, and Funeral Arrangers",Protective hoods,46181710,Protective hood
+21670,39-4031.00,"Morticians, Undertakers, and Funeral Arrangers",Protective medical face masks,42131713,Surgical isolation or surgical masks
+21827,39-5094.00,Skincare Specialists,Cryoprobes,42296502,Cryosurgery units
+22710,43-5052.00,Postal Service Mail Carriers,Mail relay boxes,24113101,Mail box
+23034,45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",Field watering systems,21102502,Irrigation overheads
+23168,45-2011.00,Agricultural Inspectors,Light meters,41115309,Lux or light meter
+23503,45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",Drip emitters,21102501,Irrigation trickles
+23512,45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",Field watering systems,21102502,Irrigation overheads
+23989,45-3031.00,Fishing and Hunting Workers,Sonic cleaners,42282017,Ultrasonic cleaning equipment
+24043,45-4011.00,Forest and Conservation Workers,Fire trucks,25101708,Rescue truck
+24277,47-1011.00,First-Line Supervisors of Construction Trades and Extraction Workers,Protective ear plugs,46181905,Ear plugs
+24436,47-2011.00,Boilermakers,Ear plugs,46181905,Ear plugs
+24768,47-2022.00,Stonemasons,Protective ear plugs,46181905,Ear plugs
+25133,47-2044.00,Tile and Stone Setters,Ear plugs,46181905,Ear plugs
+25716,47-2073.00,Operating Engineers and Other Construction Equipment Operators,Ear plugs,46181905,Ear plugs
+27254,47-2221.00,Structural Iron and Steel Workers,Ear plugs,46181905,Ear plugs
+27451,47-3012.00,Helpers--Carpenters,Protective ear plugs,46181905,Ear plugs
+28046,47-4011.00,Construction and Building Inspectors,Light meters,41115309,Lux or light meter
+28114,47-4011.01,Energy Auditors,Light meters,41115309,Lux or light meter
+28247,47-4041.00,Hazardous Materials Removal Workers,Chemical protective head covers,46181710,Protective hood
+28521,47-4061.00,Rail-Track Laying and Maintenance Equipment Operators,Protective ear plugs,46181905,Ear plugs
+28731,47-5011.00,"Derrick Operators, Oil and Gas",Protective ear plugs,46181905,Ear plugs
+29063,47-5032.00,"Explosives Workers, Ordnance Handling Experts, and Blasters",Protective ear plugs,46181905,Ear plugs
+29174,47-5044.00,"Loading and Moving Machine Operators, Underground Mining",Hearing protection plugs,46181905,Ear plugs
+29250,47-5071.00,"Roustabouts, Oil and Gas",Ear plugs,46181905,Ear plugs
+30290,49-3021.00,Automotive Body and Related Repairers,Safety hoods,46181710,Protective hood
+30710,49-3031.00,Bus and Truck Mechanics and Diesel Engine Specialists,Hearing protectors,46181905,Ear plugs
+30990,49-3042.00,"Mobile Heavy Equipment Mechanics, Except Engines",Protective ear plugs,46181905,Ear plugs
+32216,49-9043.00,"Maintenance Workers, Machinery",Ear plugs,46181905,Ear plugs
+32540,49-9051.00,Electrical Power-Line Installers and Repairers,Ear plugs,46181905,Ear plugs
+32803,49-9062.00,Medical Equipment Repairers,Fetal monitor simulators,42143120,Acute care fetal or maternal monitoring units
+33920,51-2011.00,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",Protective ear plugs,46181905,Ear plugs
+34430,51-2092.00,Team Assemblers,Protective ear plugs,46181905,Ear plugs
+34761,51-3021.00,Butchers and Meat Cutters,Protective ear plugs,46181905,Ear plugs
+34794,51-3022.00,"Meat, Poultry, and Fish Cutters and Trimmers",Meat shackles,31162811,Shaft collar
+34823,51-3023.00,Slaughterers and Meat Packers,Livestock shackles,31162811,Shaft collar
+35059,51-4022.00,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",Protective ear plugs,46181905,Ear plugs
+35308,51-4034.00,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Protective ear plugs,46181905,Ear plugs
+35586,51-4051.00,Metal-Refining Furnace Operators and Tenders,Hearing protection plugs,46181905,Ear plugs
+35641,51-4052.00,"Pourers and Casters, Metal",Protective ear plugs,46181905,Ear plugs
+35872,51-4081.00,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Protective ear plugs,46181905,Ear plugs
+35935,51-4111.00,Tool and Die Makers,Ear plugs,46181905,Ear plugs
+36392,51-5112.00,Printing Press Operators,Ear plugs,46181905,Ear plugs
+37096,51-7011.00,Cabinetmakers and Bench Carpenters,Protective ear plugs,46181905,Ear plugs
+37638,51-8021.00,Stationary Engineers and Boiler Operators,Protective ear plugs,46181905,Ear plugs
+37932,51-8099.01,Biofuels Processing Technicians,Protective ear plugs,46181905,Ear plugs
+38099,51-9021.00,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Protective ear plugs,46181905,Ear plugs
+38689,51-9081.00,Dental Laboratory Technicians,Mechanical dental instrument sharpeners,42152912,Dental instrument sharpening accessories
+38710,51-9081.00,Dental Laboratory Technicians,Ultrasonic cleaners,42282017,Ultrasonic cleaning equipment
+38796,51-9083.00,Ophthalmic Laboratory Technicians,Diagnostic retinoscopes,42183503,Ophthalmic retinoscopes
+38808,51-9083.00,Ophthalmic Laboratory Technicians,Keratometers,42183501,Keratoscopes
+38837,51-9083.00,Ophthalmic Laboratory Technicians,Retinal cameras,42183403,Fundus cameras
+38851,51-9083.00,Ophthalmic Laboratory Technicians,Specular microscopes,42183402,Corneal cameras
+38855,51-9083.00,Ophthalmic Laboratory Technicians,Ultrasonic cleaners,42282017,Ultrasonic cleaning equipment
+39009,51-9141.00,Semiconductor Processing Technicians,Clean room suits,41106801,Cleanroom certified apparel
+39117,51-9151.00,Photographic Process Workers and Processing Machine Operators,Ultrasonic cleaners,42282017,Ultrasonic cleaning equipment
+39254,51-9191.00,Adhesive Bonding Machine Operators and Tenders,Protective ear plugs,46181905,Ear plugs
+39260,51-9191.00,Adhesive Bonding Machine Operators and Tenders,Ultrasonic tanks,42282017,Ultrasonic cleaning equipment
+39273,51-9192.00,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",Hearing protection plugs,46181905,Ear plugs
+39344,51-9193.00,Cooling and Freezing Equipment Operators and Tenders,Protective ear plugs,46181905,Ear plugs
+39838,53-2012.00,Commercial Pilots,Airfield lighting equipment,39111612,Area lighting
+39839,53-2012.00,Commercial Pilots,Anemometers,41114401,Anemometers
+39845,53-2012.00,Commercial Pilots,Battery chargers,26111704,Battery chargers
+39877,53-2012.00,Commercial Pilots,Hard hats,46181701,Hard hats
+39906,53-2012.00,Commercial Pilots,Power generators,26111604,Gas generators
+39908,53-2012.00,Commercial Pilots,Reflective vests,46181531,Reflective apparel or accessories
+39909,53-2012.00,Commercial Pilots,Safety cones,46161508,Traffic cones or delineators
+39911,53-2012.00,Commercial Pilots,Spectrum analyzers,41115303,Frequency analyzers
+39913,53-2012.00,Commercial Pilots,Tablet computers,43211509,Tablet computers
+40000,53-2031.00,Flight Attendants,Nitroglycerin tablets,51411605,Glyceryl trinitrate or glyceryltrinitrate or nitroglycerin
+40015,53-2031.00,Flight Attendants,Tourniquets,42171506,Mobile medical services tourniquet or clamp
+40028,53-3011.00,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Protective face shields,42131713,Surgical isolation or surgical masks
+40229,53-4013.00,"Rail Yard Engineers, Dinkey Operators, and Hostlers",Hearing protection plugs,46181905,Ear plugs
+40593,53-5022.00,Motorboat Operators,Captive-pin shackles,31162811,Shaft collar
+40793,53-6011.00,Bridge and Lock Tenders,Hearing protectors,46181905,Ear plugs
+41036,53-7011.00,Conveyor Operators and Tenders,Hearing protection plugs,46181905,Ear plugs
+41117,53-7021.00,Crane and Tower Operators,Protective ear plugs,46181905,Ear plugs
+41359,53-7063.00,Machine Feeders and Offbearers,Protective ear plugs,46181905,Ear plugs
+41549,53-7073.00,Wellhead Pumpers,Hearing protection plugs,46181905,Ear plugs

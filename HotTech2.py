@@ -15,6 +15,9 @@ df.rename(columns={
     "Commodity Title":  "CTitle",
     "Hot Techology":    "HotTech"}, inplace=True)
 
+# How many unique Examples among the whole table?
+dfu = df.Example.unique()
+
 # How many erp, unique?  Answer:  275 
 erp = df.loc[ df.CCode == 43231602 ]
 erpu = erp.Example.unique()

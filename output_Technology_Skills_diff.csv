@@ -1,0 +1,387 @@
+,O*NET-SOC Code,Title,Example,Commodity Code,Commodity Title,Hot Technology
+34,11-1011.00,Chief Executives,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+60,11-1011.03,Chief Sustainability Officers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+106,11-1021.00,General and Operations Managers,Geographic information system GIS software,43232510,Geographic information system,Y
+151,11-1021.00,General and Operations Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+200,11-1021.00,General and Operations Managers,Splunk Enterprise,43232806,Cloud-based management software,Y
+236,11-1031.00,Legislators,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+298,11-2011.00,Advertising and Promotions Managers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+411,11-2021.00,Marketing Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+455,11-2021.00,Marketing Managers,Splunk Enterprise,43232806,Cloud-based management software,Y
+487,11-2022.00,Sales Managers,Geographic information system GIS software,43232510,Geographic information system,Y
+524,11-2022.00,Sales Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+560,11-2022.00,Sales Managers,Splunk Enterprise,43232806,Cloud-based management software,Y
+733,11-3012.00,Administrative Services Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+783,11-3013.00,Facilities Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+819,11-3013.01,Security Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+859,11-3021.00,Computer and Information Systems Managers,Cisco Systems WAN Manager,43232917,Software defined networking/ virtualization software,N
+920,11-3021.00,Computer and Information Systems Managers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+923,11-3021.00,Computer and Information Systems Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+984,11-3021.00,Computer and Information Systems Managers,SolarWinds,43233206,Cloud-based protection or security software,N
+1035,11-3031.00,Financial Managers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+1037,11-3031.00,Financial Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+1128,11-3031.03,Investment Fund Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+1222,11-3051.01,Quality Control Systems Managers,MasterControl software,43232620,Risk management data and analysis software,N
+1230,11-3051.01,Quality Control Systems Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+1322,11-3061.00,Purchasing Managers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+1323,11-3061.00,Purchasing Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+1364,11-3071.00,"Transportation, Storage, and Distribution Managers",ESRI ArcLogistics,43232510,Geographic information system,N
+1410,11-3071.00,"Transportation, Storage, and Distribution Managers",Microsoft Visio,43231518,Process mapping and design software,Y
+1482,11-3071.04,Supply Chain Managers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+1484,11-3071.04,Supply Chain Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+1559,11-3111.00,Compensation and Benefits Managers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+1561,11-3111.00,Compensation and Benefits Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+1646,11-3121.00,Human Resources Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+1803,11-9013.00,"Farmers, Ranchers, and Other Agricultural Managers",Atlassian Confluence,43233513,Cloud-based data access and sharing software,N
+1839,11-9013.00,"Farmers, Ranchers, and Other Agricultural Managers",Microsoft Visio,43231518,Process mapping and design software,Y
+1910,11-9021.00,Construction Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+2056,11-9033.00,"Education Administrators, Postsecondary",Microsoft Visio,43231518,Process mapping and design software,Y
+2157,11-9041.00,Architectural and Engineering Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+2194,11-9041.00,Architectural and Engineering Managers,Splunk Enterprise,43232806,Cloud-based management software,Y
+2233,11-9041.01,Biofuels/Biodiesel Technology and Product Development Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+2264,11-9051.00,Food Service Managers,Google Drive,43233513,Cloud-based data access and sharing software,Y
+2336,11-9072.00,"Entertainment and Recreation Managers, Except Gambling",Microsoft Visio,43231518,Process mapping and design software,Y
+2426,11-9111.00,Medical and Health Services Managers,Geographic information system GIS software,43232510,Geographic information system,Y
+2468,11-9111.00,Medical and Health Services Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+2513,11-9121.00,Natural Sciences Managers,ESRI ArcGIS software,43232510,Geographic information system,Y
+2525,11-9121.00,Natural Sciences Managers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+2526,11-9121.00,Natural Sciences Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+2648,11-9141.00,"Property, Real Estate, and Community Association Managers",Google Drive,43233513,Cloud-based data access and sharing software,Y
+2737,11-9161.00,Emergency Management Directors,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+2855,11-9199.01,Regulatory Affairs Managers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+2856,11-9199.01,Regulatory Affairs Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+2931,11-9199.02,Compliance Managers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+2932,11-9199.02,Compliance Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+2969,11-9199.08,Loss Prevention Managers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+3001,11-9199.10,Wind Energy Development Managers,ESRI ArcGIS software,43232510,Geographic information system,Y
+3007,11-9199.10,Wind Energy Development Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+3027,11-9199.11,Brownfield Redevelopment Specialists and Site Managers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+3097,13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",Enterprise risk management software ERMS,43232620,Risk management data and analysis software,N
+3115,13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+3177,13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+3178,13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",Microsoft Visio,43231518,Process mapping and design software,Y
+3311,13-1041.01,Environmental Compliance Inspectors,Geographic information system GIS software,43232510,Geographic information system,Y
+3320,13-1041.01,Environmental Compliance Inspectors,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+3351,13-1041.03,Equal Opportunity Representatives and Officers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+3373,13-1041.04,Government Property Inspectors and Investigators,Esri ArcGIS,43232510,Geographic information system,N
+3442,13-1041.07,Regulatory Affairs Specialists,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+3444,13-1041.07,Regulatory Affairs Specialists,Microsoft Visio,43231518,Process mapping and design software,Y
+3516,13-1051.00,Cost Estimators,Microsoft Visio,43231518,Process mapping and design software,Y
+3584,13-1071.00,Human Resources Specialists,ESRI ArcGIS software,43232510,Geographic information system,Y
+3641,13-1071.00,Human Resources Specialists,Microsoft Visio,43231518,Process mapping and design software,Y
+3723,13-1074.00,Farm Labor Contractors,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+3741,13-1075.00,Labor Relations Specialists,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+3758,13-1081.00,Logisticians,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+3760,13-1081.00,Logisticians,Microsoft Visio,43231518,Process mapping and design software,Y
+3797,13-1081.01,Logistics Engineers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+3799,13-1081.01,Logistics Engineers,Microsoft Visio,43231518,Process mapping and design software,Y
+3826,13-1081.02,Logistics Analysts,ESRI ArcLogistics,43232510,Geographic information system,N
+3845,13-1081.02,Logistics Analysts,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+3925,13-1082.00,Project Management Specialists,Microsoft Visio,43231518,Process mapping and design software,Y
+4089,13-1111.00,Management Analysts,Microsoft Visio,43231518,Process mapping and design software,Y
+4187,13-1121.00,"Meeting, Convention, and Event Planners",Google Drive,43233513,Cloud-based data access and sharing software,Y
+4299,13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+4415,13-1151.00,Training and Development Specialists,Microsoft Visio,43231518,Process mapping and design software,Y
+4496,13-1161.00,Market Research Analysts and Marketing Specialists,ESRI ArcGIS software,43232510,Geographic information system,Y
+4544,13-1161.00,Market Research Analysts and Marketing Specialists,Microsoft Visio,43231518,Process mapping and design software,Y
+4641,13-1161.01,Search Marketing Strategists,Microsoft Visio,43231518,Process mapping and design software,Y
+4684,13-1199.04,Business Continuity Planners,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+4686,13-1199.04,Business Continuity Planners,Microsoft Visio,43231518,Process mapping and design software,Y
+4722,13-1199.05,Sustainability Specialists,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+4723,13-1199.05,Sustainability Specialists,Microsoft Visio,43231518,Process mapping and design software,Y
+4765,13-1199.06,Online Merchants,IBM WebSphere,43232806,Cloud-based management software,Y
+4784,13-1199.06,Online Merchants,Microsoft Visio,43231518,Process mapping and design software,Y
+4814,13-1199.07,Security Management Specialists,ArcSight Enterprise Threat and Risk Management,43232620,Risk management data and analysis software,N
+4828,13-1199.07,Security Management Specialists,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+4829,13-1199.07,Security Management Specialists,Microsoft Visio,43231518,Process mapping and design software,Y
+4840,13-1199.07,Security Management Specialists,Splunk Enterprise,43232806,Cloud-based management software,Y
+4843,13-1199.07,Security Management Specialists,Tenable Nessus,43233206,Cloud-based protection or security software,N
+4984,13-2011.00,Accountants and Auditors,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+4986,13-2011.00,Accountants and Auditors,Microsoft Visio,43231518,Process mapping and design software,Y
+5071,13-2011.00,Accountants and Auditors,Thomson Reuters Risk Management,43232620,Risk management data and analysis software,N
+5109,13-2023.00,Appraisers and Assessors of Real Estate,Govern Software GovMap,43232510,Geographic information system,N
+5175,13-2031.00,Budget Analysts,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+5322,13-2051.00,Financial and Investment Analysts,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+5325,13-2051.00,Financial and Investment Analysts,Microsoft Visio,43231518,Process mapping and design software,Y
+5631,13-2054.00,Financial Risk Specialists,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+5634,13-2054.00,Financial Risk Specialists,Microsoft Visio,43231518,Process mapping and design software,Y
+5745,13-2061.00,Financial Examiners,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+5746,13-2061.00,Financial Examiners,Microsoft Visio,43231518,Process mapping and design software,Y
+5946,13-2099.01,Financial Quantitative Analysts,Microsoft Visio,43231518,Process mapping and design software,Y
+5962,13-2099.04,"Fraud Examiners, Investigators and Analysts",ArcSight Enterprise Threat and Risk Management,43232620,Risk management data and analysis software,N
+5975,13-2099.04,"Fraud Examiners, Investigators and Analysts",Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+5977,13-2099.04,"Fraud Examiners, Investigators and Analysts",Microsoft Visio,43231518,Process mapping and design software,Y
+5983,13-2099.04,"Fraud Examiners, Investigators and Analysts",Splunk Enterprise,43232806,Cloud-based management software,Y
+6311,15-1211.01,Health Informatics Specialists,ESRI ArcGIS software,43232510,Geographic information system,Y
+6330,15-1211.01,Health Informatics Specialists,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+6332,15-1211.01,Health Informatics Specialists,Microsoft Visio,43231518,Process mapping and design software,Y
+6389,15-1212.00,Information Security Analysts,ArcSight Enterprise Threat and Risk Management,43232620,Risk management data and analysis software,N
+6488,15-1212.00,Information Security Analysts,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+6493,15-1212.00,Information Security Analysts,Microsoft Visio,43231518,Process mapping and design software,Y
+6545,15-1212.00,Information Security Analysts,Qualys Cloud Platform,43233206,Cloud-based protection or security software,N
+6722,15-1221.00,Computer and Information Research Scientists,Splunk Enterprise,43232806,Cloud-based management software,Y
+6813,15-1231.00,Computer Network Support Specialists,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+6858,15-1231.00,Computer Network Support Specialists,SolarWinds,43233206,Cloud-based protection or security software,N
+7035,15-1232.00,Computer User Support Specialists,Microsoft Visio,43231518,Process mapping and design software,Y
+7108,15-1232.00,Computer User Support Specialists,SolarWinds,43233206,Cloud-based protection or security software,N
+7229,15-1241.00,Computer Network Architects,ESRI ArcGIS software,43232510,Geographic information system,Y
+7293,15-1241.00,Computer Network Architects,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+7296,15-1241.00,Computer Network Architects,Microsoft Visio,43231518,Process mapping and design software,Y
+7384,15-1241.00,Computer Network Architects,SolarWinds,43233206,Cloud-based protection or security software,N
+7450,15-1241.01,Telecommunications Engineering Specialists,Microsoft Visio,43231518,Process mapping and design software,Y
+7636,15-1242.00,Database Administrators,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+7726,15-1242.00,Database Administrators,SolarWinds,43233206,Cloud-based protection or security software,N
+8040,15-1243.00,Database Architects,SolarWinds,43233206,Cloud-based protection or security software,N
+8113,15-1243.01,Data Warehousing Specialists,ESRI ArcGIS software,43232510,Geographic information system,Y
+8146,15-1243.01,Data Warehousing Specialists,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+8150,15-1243.01,Data Warehousing Specialists,Microsoft Visio,43231518,Process mapping and design software,Y
+8365,15-1244.00,Network and Computer Systems Administrators,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+8370,15-1244.00,Network and Computer Systems Administrators,Microsoft Visio,43231518,Process mapping and design software,Y
+8463,15-1244.00,Network and Computer Systems Administrators,SolarWinds,43233206,Cloud-based protection or security software,N
+8471,15-1244.00,Network and Computer Systems Administrators,Symantec Ghost Solution Suite,43233007,Computer imaging software,N
+8663,15-1251.00,Computer Programmers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+8669,15-1251.00,Computer Programmers,Microsoft Visio,43231518,Process mapping and design software,Y
+9013,15-1252.00,Software Developers,Microsoft Visio,43231518,Process mapping and design software,Y
+9419,15-1253.00,Software Quality Assurance Analysts and Testers,Microsoft Visio,43231518,Process mapping and design software,Y
+9739,15-1254.00,Web Developers,Microsoft Visio,43231518,Process mapping and design software,Y
+9965,15-1255.00,Web and Digital Interface Designers,Microsoft Visio,43231518,Process mapping and design software,Y
+10090,15-1255.01,Video Game Designers,Microsoft Visio,43231518,Process mapping and design software,Y
+10150,15-1299.01,Web Administrators,IBM WebSphere,43232806,Cloud-based management software,Y
+10174,15-1299.01,Web Administrators,Microsoft Visio,43231518,Process mapping and design software,Y
+10255,15-1299.02,Geographic Information Systems Technologists and Technicians,IBM WebSphere,43232806,Cloud-based management software,Y
+10270,15-1299.02,Geographic Information Systems Technologists and Technicians,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+10272,15-1299.02,Geographic Information Systems Technologists and Technicians,Microsoft Visio,43231518,Process mapping and design software,Y
+10351,15-1299.03,Document Management Specialists,IBM WebSphere MQ,43232806,Cloud-based management software,N
+10362,15-1299.03,Document Management Specialists,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+10364,15-1299.03,Document Management Specialists,Microsoft Visio,43231518,Process mapping and design software,Y
+10562,15-1299.08,Computer Systems Engineers/Architects,Microsoft Visio,43231518,Process mapping and design software,Y
+10856,15-1299.09,Information Technology Project Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+11012,15-2011.00,Actuaries,Microsoft Visio,43231518,Process mapping and design software,Y
+11164,15-2031.00,Operations Research Analysts,iGrafx,43232620,Risk management data and analysis software,N
+11221,15-2031.00,Operations Research Analysts,Splunk Enterprise,43232806,Cloud-based management software,Y
+11466,15-2051.01,Business Intelligence Analysts,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+11470,15-2051.01,Business Intelligence Analysts,Microsoft Visio,43231518,Process mapping and design software,Y
+11575,15-2051.02,Clinical Data Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+11628,15-2099.01,Bioinformatics Technicians,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+11630,15-2099.01,Bioinformatics Technicians,Microsoft Visio,43231518,Process mapping and design software,Y
+11683,17-1011.00,"Architects, Except Landscape and Naval",ESRI ArcGIS software,43232510,Geographic information system,Y
+11734,17-1012.00,Landscape Architects,ESRI ArcGIS software,43232510,Geographic information system,Y
+11796,17-1021.00,Cartographers and Photogrammetrists,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+11953,17-2011.00,Aerospace Engineers,Microsoft Visio,43231518,Process mapping and design software,Y
+11995,17-2021.00,Agricultural Engineers,ESRI ArcView,43232510,Geographic information system,N
+12002,17-2021.00,Agricultural Engineers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+12132,17-2031.00,Bioengineers and Biomedical Engineers,Splunk Enterprise,43232806,Cloud-based management software,Y
+12171,17-2041.00,Chemical Engineers,Computer aided manufacturing CAM software,43232612,Computer aided manufacturing CAM software,N
+12194,17-2041.00,Chemical Engineers,Microsoft Visio,43231518,Process mapping and design software,Y
+12296,17-2051.01,Transportation Engineers,ESRI ArcGIS software,43232510,Geographic information system,Y
+12423,17-2061.00,Computer Hardware Engineers,Microsoft Visio,43231518,Process mapping and design software,Y
+12545,17-2071.00,Electrical Engineers,Microsoft Visio,43231518,Process mapping and design software,Y
+12607,17-2072.00,"Electronics Engineers, Except Computer",ESRI ArcGIS software,43232510,Geographic information system,Y
+12653,17-2072.01,Radio Frequency Identification Device Specialists,ESRI ArcGIS software,43232510,Geographic information system,Y
+12665,17-2072.01,Radio Frequency Identification Device Specialists,Microsoft Visio,43231518,Process mapping and design software,Y
+12853,17-2111.02,Fire-Prevention and Protection Engineers,Microsoft Visio,43231518,Process mapping and design software,Y
+12912,17-2112.00,Industrial Engineers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+13006,17-2112.01,Human Factors Engineers and Ergonomists,Microsoft Visio,43231518,Process mapping and design software,Y
+13089,17-2112.02,Validation Engineers,Microsoft Visio,43231518,Process mapping and design software,Y
+13122,17-2112.02,Validation Engineers,Splunk Enterprise,43232806,Cloud-based management software,Y
+13157,17-2112.03,Manufacturing Engineers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+13158,17-2112.03,Manufacturing Engineers,Microsoft Visio,43231518,Process mapping and design software,Y
+13231,17-2131.00,Materials Engineers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+13232,17-2131.00,Materials Engineers,Microsoft Visio,43231518,Process mapping and design software,Y
+13301,17-2141.00,Mechanical Engineers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+13303,17-2141.00,Mechanical Engineers,Microsoft Visio,43231518,Process mapping and design software,Y
+13426,17-2141.02,Automotive Engineers,Microsoft Visio,43231518,Process mapping and design software,Y
+13472,17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+13563,17-2171.00,Petroleum Engineers,Microsoft Visio,43231518,Process mapping and design software,Y
+13613,17-2199.03,"Energy Engineers, Except Wind and Solar",Microsoft Visio,43231518,Process mapping and design software,Y
+13650,17-2199.05,Mechatronics Engineers,Microsoft Visio,43231518,Process mapping and design software,Y
+13786,17-2199.07,Photonics Engineers,Microsoft Visio,43231518,Process mapping and design software,Y
+13846,17-2199.08,Robotics Engineers,Microsoft Visio,43231518,Process mapping and design software,Y
+13906,17-2199.09,Nanosystems Engineers,Microsoft Visio,43231518,Process mapping and design software,Y
+13963,17-2199.10,Wind Energy Engineers,Microsoft Visio,43231518,Process mapping and design software,Y
+14006,17-2199.11,Solar Energy Systems Engineers,ETAP,43232510,Geographic information system,N
+14019,17-2199.11,Solar Energy Systems Engineers,Microsoft Visio,43231518,Process mapping and design software,Y
+14102,17-3011.00,Architectural and Civil Drafters,Microsoft Visio,43231518,Process mapping and design software,Y
+14151,17-3012.00,Electrical and Electronics Drafters,Microsoft Visio,43231518,Process mapping and design software,Y
+14184,17-3013.00,Mechanical Drafters,ESRI ArcGIS software,43232510,Geographic information system,Y
+14235,17-3021.00,Aerospace Engineering and Operations Technologists and Technicians,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+14237,17-3021.00,Aerospace Engineering and Operations Technologists and Technicians,Microsoft Visio,43231518,Process mapping and design software,Y
+14316,17-3023.00,Electrical and Electronic Engineering Technologists and Technicians,IBM WebSphere,43232806,Cloud-based management software,Y
+14401,17-3024.00,Electro-Mechanical and Mechatronics Technologists and Technicians,MindJet MindManager,43231518,Process mapping and design software,N
+14610,17-3026.00,Industrial Engineering Technologists and Technicians,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+14695,17-3027.00,Mechanical Engineering Technologists and Technicians,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+14700,17-3027.00,Mechanical Engineering Technologists and Technicians,ProModel,43231518,Process mapping and design software,N
+14845,17-3031.00,Surveying and Mapping Technicians,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+14846,17-3031.00,Surveying and Mapping Technicians,Microsoft Visio,43231518,Process mapping and design software,Y
+14890,19-1011.00,Animal Scientists,ESRI ArcGIS software,43232510,Geographic information system,Y
+14979,19-1021.00,Biochemists and Biophysicists,ESRI What if?,43232510,Geographic information system,N
+15003,19-1021.00,Biochemists and Biophysicists,Microsoft Visio,43231518,Process mapping and design software,Y
+15150,19-1029.01,Bioinformatics Scientists,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+15499,19-1042.00,"Medical Scientists, Except Epidemiologists",ESRI ArcGIS software,43232510,Geographic information system,Y
+15611,19-2012.00,Physicists,OpenStack,43232806,Cloud-based management software,N
+15750,19-2031.00,Chemists,Microsoft Visio,43231518,Process mapping and design software,Y
+15879,19-2041.01,Climate Change Policy Analysts,ESRI ArcGIS software,43232510,Geographic information system,Y
+15923,19-2041.02,Environmental Restoration Planners,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+15939,19-2041.03,Industrial Ecologists,ESRI ArcGIS software,43232510,Geographic information system,Y
+15948,19-2041.03,Industrial Ecologists,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+15950,19-2041.03,Industrial Ecologists,Microsoft Visio,43231518,Process mapping and design software,Y
+15951,19-2041.03,Industrial Ecologists,Microsoft Visual Studio,43232402,Development environment software,Y
+15964,19-2041.03,Industrial Ecologists,Splunk Enterprise,43232806,Cloud-based management software,Y
+16268,19-2099.01,Remote Sensing Scientists and Technologists,Aeronautical charts,43232105,Charting software,N
+16275,19-2099.01,Remote Sensing Scientists and Technologists,Amazon Web Services AWS CloudFormation,43232806,Cloud-based management software,Y
+16282,19-2099.01,Remote Sensing Scientists and Technologists,ArduPilot Mission Planner,43232601,Aviation ground support software,N
+16295,19-2099.01,Remote Sensing Scientists and Technologists,ESRI ArcGIS software,43232510,Geographic information system,Y
+16302,19-2099.01,Remote Sensing Scientists and Technologists,Global positioning system GPS software,43233511,Mobile location based services software,N
+16320,19-2099.01,Remote Sensing Scientists and Technologists,Microsoft Visio,43231518,Process mapping and design software,Y
+16358,19-3011.00,Economists,ESRI ArcView,43232510,Geographic information system,N
+16544,19-3032.00,Industrial-Organizational Psychologists,Microsoft Visio,43231518,Process mapping and design software,Y
+16695,19-3041.00,Sociologists,ESRI ArcGIS software,43232510,Geographic information system,Y
+16707,19-3041.00,Sociologists,Microsoft Visio,43231518,Process mapping and design software,Y
+16783,19-3051.00,Urban and Regional Planners,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+16845,19-3091.00,Anthropologists and Archeologists,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+16928,19-3093.00,Historians,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+16972,19-3094.00,Political Scientists,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+16973,19-3094.00,Political Scientists,Microsoft Visio,43231518,Process mapping and design software,Y
+17067,19-4013.00,Food Science Technicians,IBM WebSphere,43232806,Cloud-based management software,Y
+17075,19-4013.00,Food Science Technicians,Microsoft Visio,43231518,Process mapping and design software,Y
+17240,19-4061.00,Social Science Research Assistants,ESRI ArcGIS software,43232510,Geographic information system,Y
+17318,19-4092.00,Forensic Science Technicians,Microsoft Visio,43231518,Process mapping and design software,Y
+17359,19-4099.01,Quality Control Analysts,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+17361,19-4099.01,Quality Control Analysts,Microsoft Visio,43231518,Process mapping and design software,Y
+17383,19-4099.03,Remote Sensing Technicians,Aeronautical charts,43232105,Charting software,N
+17391,19-4099.03,Remote Sensing Technicians,ArduPilot Mission Planner,43232601,Aviation ground support software,N
+17463,19-4099.03,Remote Sensing Technicians,Splunk Enterprise,43232806,Cloud-based management software,Y
+17488,19-5011.00,Occupational Health and Safety Specialists,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+17508,19-5012.00,Occupational Health and Safety Technicians,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+17763,21-1023.00,Mental Health and Substance Abuse Social Workers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+17791,21-1091.00,Health Education Specialists,Microsoft Visio,43231518,Process mapping and design software,Y
+18055,23-1022.00,"Arbitrators, Mediators, and Conciliators",Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+18184,23-2093.00,"Title Examiners, Abstractors, and Searchers",Geographic information system GIS databases,43232510,Geographic information system,N
+18329,25-1031.00,"Architecture Teachers, Postsecondary",Geographic information system GIS systems,43232510,Geographic information system,N
+18413,25-1042.00,"Biological Science Teachers, Postsecondary",Geographic information system GIS software,43232510,Geographic information system,Y
+18467,25-1043.00,"Forestry and Conservation Science Teachers, Postsecondary",Microsoft Visio,43231518,Process mapping and design software,Y
+18573,25-1053.00,"Environmental Science Teachers, Postsecondary",Google Drive,43233513,Cloud-based data access and sharing software,Y
+18682,25-1062.00,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",Google Drive,43233513,Cloud-based data access and sharing software,Y
+18900,25-1071.00,"Health Specialties Teachers, Postsecondary",Geographic information system GIS software,43232510,Geographic information system,Y
+19010,25-1082.00,"Library Science Teachers, Postsecondary",Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+19021,25-1082.00,"Library Science Teachers, Postsecondary",Splunk Enterprise,43232806,Cloud-based management software,Y
+19218,25-1123.00,"English Language and Literature Teachers, Postsecondary",Lucidchart,43231518,Process mapping and design software,N
+19267,25-1125.00,"History Teachers, Postsecondary",Geographic information system GIS software,43232510,Geographic information system,Y
+19491,25-2023.00,"Career/Technical Education Teachers, Middle School",Atlassian Confluence,43233513,Cloud-based data access and sharing software,N
+19536,25-2023.00,"Career/Technical Education Teachers, Middle School",Microsoft Visio,43231518,Process mapping and design software,Y
+19689,25-2057.00,"Special Education Teachers, Middle School",Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+19713,25-2058.00,"Special Education Teachers, Secondary School",Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+19797,25-3041.00,Tutors,Google Drive,43233513,Cloud-based data access and sharing software,Y
+19826,25-4011.00,Archivists,Esri ArcGIS,43232510,Geographic information system,N
+19957,25-4022.00,Librarians and Media Collections Specialists,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+19958,25-4022.00,Librarians and Media Collections Specialists,Microsoft Visio,43231518,Process mapping and design software,Y
+20089,25-9031.00,Instructional Coordinators,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+20090,25-9031.00,Instructional Coordinators,Microsoft Visio,43231518,Process mapping and design software,Y
+20406,27-1014.00,Special Effects Artists and Animators,Microsoft Visio,43231518,Process mapping and design software,Y
+20477,27-1021.00,Commercial and Industrial Designers,ESRI ArcGIS software,43232510,Geographic information system,Y
+20593,27-1024.00,Graphic Designers,Google Drive,43233513,Cloud-based data access and sharing software,Y
+20607,27-1024.00,Graphic Designers,Microsoft Visio,43231518,Process mapping and design software,Y
+20771,27-2012.00,Producers and Directors,Google Drive,43233513,Cloud-based data access and sharing software,Y
+20786,27-2012.00,Producers and Directors,Microsoft Visio,43231518,Process mapping and design software,Y
+20810,27-2012.03,Media Programming Directors,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+20898,27-2022.00,Coaches and Scouts,Google Drive,43233513,Cloud-based data access and sharing software,Y
+21090,27-3023.00,"News Analysts, Reporters, and Journalists",ESRI ArcView,43232510,Geographic information system,N
+21232,27-3041.00,Editors,Microsoft Visio,43231518,Process mapping and design software,Y
+21297,27-3042.00,Technical Writers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+21300,27-3042.00,Technical Writers,Microsoft Visio,43231518,Process mapping and design software,Y
+21379,27-3043.05,"Poets, Lyricists and Creative Writers",Google Drive,43233513,Cloud-based data access and sharing software,Y
+21524,27-4014.00,Sound Engineering Technicians,Microsoft Visio,43231518,Process mapping and design software,Y
+21549,27-4021.00,Photographers,Google Drive,43233513,Cloud-based data access and sharing software,Y
+21583,27-4031.00,"Camera Operators, Television, Video, and Film",Google Drive,43233513,Cloud-based data access and sharing software,Y
+21757,29-1031.00,Dietitians and Nutritionists,Google Drive,43233513,Cloud-based data access and sharing software,Y
+21814,29-1051.00,Pharmacists,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+21926,29-1122.01,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",Microsoft Visio,43231518,Process mapping and design software,Y
+22004,29-1127.00,Speech-Language Pathologists,Dropbox,43233513,Cloud-based data access and sharing software,N
+22275,29-1171.00,Nurse Practitioners,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+23247,29-2055.00,Surgical Technologists,Google Drive,43233513,Cloud-based data access and sharing software,Y
+23290,29-2061.00,Licensed Practical and Licensed Vocational Nurses,Google Drive,43233513,Cloud-based data access and sharing software,Y
+23378,29-2072.00,Medical Records Specialists,Microsoft Visio,43231518,Process mapping and design software,Y
+23613,29-9021.00,Health Information Technologists and Medical Registrars,Microsoft Visio,43231518,Process mapping and design software,Y
+23734,31-1121.00,Home Health Aides,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+23913,31-9092.00,Medical Assistants,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+23932,31-9093.00,Medical Equipment Preparers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+24071,33-1012.00,First-Line Supervisors of Police and Detectives,Microsoft Visio,43231518,Process mapping and design software,Y
+24108,33-2011.00,Firefighters,Geographic information system GIS software,43232510,Geographic information system,Y
+24131,33-2022.00,Forest Fire Inspectors and Prevention Specialists,Amazon Web Services AWS CloudFormation,43232806,Cloud-based management software,Y
+24145,33-2022.00,Forest Fire Inspectors and Prevention Specialists,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+24166,33-3011.00,Bailiffs,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+24208,33-3021.00,Detectives and Criminal Investigators,Microsoft Visio,43231518,Process mapping and design software,Y
+24233,33-3021.02,Police Identification and Records Officers,Microsoft Visio,43231518,Process mapping and design software,Y
+24264,33-3021.06,Intelligence Analysts,Flowcharting software,43231518,Process mapping and design software,N
+24280,33-3021.06,Intelligence Analysts,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+24296,33-3021.06,Intelligence Analysts,Splunk Enterprise,43232806,Cloud-based management software,Y
+24344,33-3051.00,Police and Sheriff's Patrol Officers,ESRI ArcView,43232510,Geographic information system,N
+24354,33-3051.00,Police and Sheriff's Patrol Officers,Microsoft Visio,43231518,Process mapping and design software,Y
+24399,33-9011.00,Animal Control Workers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+24400,33-9011.00,Animal Control Workers,Microsoft Visio,43231518,Process mapping and design software,Y
+24440,33-9032.00,Security Guards,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+24713,37-2021.00,Pest Control Workers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+25113,41-1011.00,First-Line Supervisors of Retail Sales Workers,Microsoft Visio,43231518,Process mapping and design software,Y
+25171,41-1012.00,First-Line Supervisors of Non-Retail Sales Workers,Flow chart software,43231518,Process mapping and design software,N
+25432,41-3031.00,"Securities, Commodities, and Financial Services Sales Agents",Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+25536,41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+25670,41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",Microsoft Visio,43231518,Process mapping and design software,Y
+25762,41-9021.00,Real Estate Brokers,Google Earth Pro,43232510,Geographic information system,N
+25807,41-9022.00,Real Estate Sales Agents,Geographic information system GIS software,43232510,Geographic information system,Y
+25809,41-9022.00,Real Estate Sales Agents,Google Drive,43233513,Cloud-based data access and sharing software,Y
+25912,41-9031.00,Sales Engineers,Microsoft Visio,43231518,Process mapping and design software,Y
+25931,41-9031.00,Sales Engineers,Splunk Enterprise,43232806,Cloud-based management software,Y
+26008,43-1011.00,First-Line Supervisors of Office and Administrative Support Workers,Microsoft Visio,43231518,Process mapping and design software,Y
+26363,43-3061.00,Procurement Clerks,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+26412,43-4011.00,Brokerage Clerks,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+26438,43-4021.00,Correspondence Clerks,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+26621,43-4071.00,File Clerks,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+26718,43-4141.00,New Accounts Clerks,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+26767,43-4161.00,"Human Resources Assistants, Except Payroll and Timekeeping",Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+26768,43-4161.00,"Human Resources Assistants, Except Payroll and Timekeeping",Microsoft Visio,43231518,Process mapping and design software,Y
+26801,43-4171.00,Receptionists and Information Clerks,Google Drive,43233513,Cloud-based data access and sharing software,Y
+26908,43-5032.00,"Dispatchers, Except Police, Fire, and Ambulance",ESRI ArcIMS,43232510,Geographic information system,N
+26975,43-5053.00,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+27010,43-5061.00,"Production, Planning, and Expediting Clerks",Google Drive,43233513,Cloud-based data access and sharing software,Y
+27205,43-6011.00,Executive Secretaries and Executive Administrative Assistants,Microsoft Visio,43231518,Process mapping and design software,Y
+27252,43-6012.00,Legal Secretaries and Administrative Assistants,Dropbox,43233513,Cloud-based data access and sharing software,N
+27271,43-6012.00,Legal Secretaries and Administrative Assistants,Microsoft Visio,43231518,Process mapping and design software,Y
+27304,43-6013.00,Medical Secretaries and Administrative Assistants,Google Drive,43233513,Cloud-based data access and sharing software,Y
+27393,43-6014.00,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",IBM WebSphere,43232806,Cloud-based management software,Y
+27420,43-6014.00,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",Microsoft Visio,43231518,Process mapping and design software,Y
+27470,43-9021.00,Data Entry Keyers,Google Drive,43233513,Cloud-based data access and sharing software,Y
+27501,43-9022.00,Word Processors and Typists,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+27502,43-9022.00,Word Processors and Typists,Microsoft Visio,43231518,Process mapping and design software,Y
+27568,43-9031.00,Desktop Publishers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+27569,43-9031.00,Desktop Publishers,Microsoft Visio,43231518,Process mapping and design software,Y
+27743,43-9081.00,Proofreaders and Copy Markers,Microsoft Visio,43231518,Process mapping and design software,Y
+27845,45-2021.00,Animal Breeders,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+27913,45-4021.00,Fallers,ESRI ArcView,43232510,Geographic information system,N
+27968,47-1011.03,Solar Energy Installation Managers,Esri ArcGIS,43232510,Geographic information system,N
+27977,47-1011.03,Solar Energy Installation Managers,Microsoft Visio,43231518,Process mapping and design software,Y
+28176,47-2111.00,Electricians,SmartDraw,43231518,Process mapping and design software,N
+28397,47-3011.00,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+28398,47-3011.00,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",Microsoft Visio,43231518,Process mapping and design software,Y
+28417,47-3012.00,Helpers--Carpenters,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+28464,47-4011.00,Construction and Building Inspectors,ESRI ArcView,43232510,Geographic information system,N
+28510,47-4011.01,Energy Auditors,Esri ArcGIS,43232510,Geographic information system,N
+28530,47-4011.01,Energy Auditors,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+28648,47-5013.00,"Service Unit Operators, Oil and Gas",Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+28674,47-5032.00,"Explosives Workers, Ordnance Handling Experts, and Blasters",ESRI ArcGIS software,43232510,Geographic information system,Y
+28753,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+28779,49-2011.00,"Computer, Automated Teller, and Office Machine Repairers",IBM WebSphere,43232806,Cloud-based management software,Y
+28810,49-2021.00,"Radio, Cellular, and Tower Equipment Installers and Repairers",Caliper Maptitude,43232510,Geographic information system,N
+29127,49-9012.00,"Control and Valve Installers and Repairers, Except Mechanical Door",Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+29128,49-9012.00,"Control and Valve Installers and Repairers, Except Mechanical Door",Microsoft Visio,43231518,Process mapping and design software,Y
+29285,49-9071.00,"Maintenance and Repair Workers, General",Dropbox,43233513,Cloud-based data access and sharing software,N
+29424,51-1011.00,First-Line Supervisors of Production and Operating Workers,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+29929,51-6093.00,Upholsterers,LibreOffice Draw,43231518,Process mapping and design software,N
+30007,51-8012.00,Power Distributors and Dispatchers,Geographic information system GIS software,43232510,Geographic information system,Y
+30212,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+30213,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",Microsoft Visio,43231518,Process mapping and design software,Y
+30640,53-2011.00,"Airline Pilots, Copilots, and Flight Engineers",Microsoft Visio,43231518,Process mapping and design software,Y
+30653,53-2012.00,Commercial Pilots,Aeronautical charts,43232105,Charting software,N
+30655,53-2012.00,Commercial Pilots,Airdata,43231507,Project management software,N
+30658,53-2012.00,Commercial Pilots,ArduPilot Mission Planner,43232601,Aviation ground support software,N
+30722,53-2022.00,Airfield Operations Specialists,Microsoft SharePoint,43233513,Cloud-based data access and sharing software,Y
+30969,53-6051.01,Aviation Inspectors,Computer aided manufacturing CAM software,43232612,Computer aided manufacturing CAM software,N
