@@ -14,7 +14,9 @@
 1203,27112805,Threading die hand tool,27112800,Tool attachments and accessories,27110000,Hand tools,27000000,Tools and General Machinery
 1321,31162811,Shaft collar,31162800,Miscellaneous hardware,31160000,Hardware,31000000,Manufacturing Components and Supplies
 1717,41104138,Blood collection needle holders,41104100,Specimen collection and transport containers and supplies,41100000,Laboratory and scientific equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment
+1789,41105505,High throughput screening HTS systems in nucleic acid purification,41105500,Nucleic acid DNA and RNA extraction and purification and quantitation kits and components,41100000,Laboratory and scientific equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment
 1798,41106801,Cleanroom certified apparel,41106800,Cleanroom certified supplies,41100000,Laboratory and scientific equipment,41000000,Laboratory and Measuring and Observing and Testing Equipment
+1977,41112701,Grain analyzers,41112700,Laboratory seed and feed testing equipment,41110000,Measuring and observing and testing instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment
 2162,41115309,Lux or light meter,41115300,Light and wave generating and measuring equipment,41110000,Measuring and observing and testing instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment
 2164,41115311,Photometer,41115300,Light and wave generating and measuring equipment,41110000,Measuring and observing and testing instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment
 2237,41116209,Blood coagulation multiparameter monitor or meter,41116200,Patient point of care testing supplies and equipment,41110000,Measuring and observing and testing instruments,41000000,Laboratory and Measuring and Observing and Testing Equipment
@@ -52,6 +54,7 @@
 2367,42142614,Hypodermic injection apparatus,42142600,Syringes and accessories,42140000,Patient care and treatment products and supplies,42000000,Medical Equipment and Accessories and Supplies
 2372,42142715,Urinary catheterization kits,42142700,Urological supplies,42140000,Patient care and treatment products and supplies,42000000,Medical Equipment and Accessories and Supplies
 2373,42142719,Urethrotomes,42142700,Urological supplies,42140000,Patient care and treatment products and supplies,42000000,Medical Equipment and Accessories and Supplies
+2377,42143101,Intrauterine catheters or catheterization kits,42143100,Obstetrics and gynecology equipment and supplies,42140000,Patient care and treatment products and supplies,42000000,Medical Equipment and Accessories and Supplies
 2378,42143102,Uterine devices,42143100,Obstetrics and gynecology equipment and supplies,42140000,Patient care and treatment products and supplies,42000000,Medical Equipment and Accessories and Supplies
 2379,42143120,Acute care fetal or maternal monitoring units,42143100,Obstetrics and gynecology equipment and supplies,42140000,Patient care and treatment products and supplies,42000000,Medical Equipment and Accessories and Supplies
 2380,42143513,Otological instruments,42143500,Ear nose and throat ENT treatment products and accessories,42140000,Patient care and treatment products and supplies,42000000,Medical Equipment and Accessories and Supplies
@@ -179,6 +182,8 @@
 2651,42192211,Patient shifting boards,42192200,Patient transport products,42190000,Medical facility products,42000000,Medical Equipment and Accessories and Supplies
 2652,42192301,Patient lifts,42192300,Patient lifts and related products,42190000,Medical facility products,42000000,Medical Equipment and Accessories and Supplies
 2653,42192302,Clinical hydraulic lifts,42192300,Patient lifts and related products,42190000,Medical facility products,42000000,Medical Equipment and Accessories and Supplies
+2654,42192304,Patient ceiling hoists,42192300,Patient lifts and related products,42190000,Medical facility products,42000000,Medical Equipment and Accessories and Supplies
+2655,42192401,Emergency or resuscitation carts,42192400,Medical equipment transport and transfer and storage products,42190000,Medical facility products,42000000,Medical Equipment and Accessories and Supplies
 2656,42192404,Medical carts,42192400,Medical equipment transport and transfer and storage products,42190000,Medical facility products,42000000,Medical Equipment and Accessories and Supplies
 2657,42192409,Cast or splint carts or stands,42192400,Medical equipment transport and transfer and storage products,42190000,Medical facility products,42000000,Medical Equipment and Accessories and Supplies
 2658,42192602,Medication or pill dispensers,42192600,Medication dispensing and measuring devices and supplies,42190000,Medical facility products,42000000,Medical Equipment and Accessories and Supplies
@@ -263,9 +268,16 @@
 2924,42272303,Resuscitation masks,42272300,Resuscitation supplies,42270000,Respiratory and anesthesia and resuscitation products,42000000,Medical Equipment and Accessories and Supplies
 2926,42272501,Gas anesthesia apparatus or machines,42272500,Anesthesia apparatus and accessories and supplies,42270000,Respiratory and anesthesia and resuscitation products,42000000,Medical Equipment and Accessories and Supplies
 2927,42272503,Anesthesia inhalers or inhaler units,42272500,Anesthesia apparatus and accessories and supplies,42270000,Respiratory and anesthesia and resuscitation products,42000000,Medical Equipment and Accessories and Supplies
+2928,42281501,Chemical or gas sterilizers,42281500,Autoclave and sterilizer equipment and accessories,42280000,Medical cleaning and sterilization products,42000000,Medical Equipment and Accessories and Supplies
+2929,42281502,Dry heat or hot air sterilizers,42281500,Autoclave and sterilizer equipment and accessories,42280000,Medical cleaning and sterilization products,42000000,Medical Equipment and Accessories and Supplies
+2930,42281508,Steam autoclaves or sterilizers,42281500,Autoclave and sterilizer equipment and accessories,42280000,Medical cleaning and sterilization products,42000000,Medical Equipment and Accessories and Supplies
+2931,42281515,Sterilization cabinets,42281500,Autoclave and sterilizer equipment and accessories,42280000,Medical cleaning and sterilization products,42000000,Medical Equipment and Accessories and Supplies
+2932,42281521,Sterilization sets,42281500,Autoclave and sterilizer equipment and accessories,42280000,Medical cleaning and sterilization products,42000000,Medical Equipment and Accessories and Supplies
 2933,42281531,Ultraviolet sterilizers,42281500,Autoclave and sterilizer equipment and accessories,42280000,Medical cleaning and sterilization products,42000000,Medical Equipment and Accessories and Supplies
 2934,42281803,Sterilization biological kits,42281800,Sterilization indicators and controls,42280000,Medical cleaning and sterilization products,42000000,Medical Equipment and Accessories and Supplies
+2935,42281806,Sterilization indicator strips,42281800,Sterilization indicators and controls,42280000,Medical cleaning and sterilization products,42000000,Medical Equipment and Accessories and Supplies
 2936,42281810,Sterilization test packs,42281800,Sterilization indicators and controls,42280000,Medical cleaning and sterilization products,42000000,Medical Equipment and Accessories and Supplies
+2937,42281905,Sterilization heat sealers,42281900,Sterilization wraps and packaging supplies,42280000,Medical cleaning and sterilization products,42000000,Medical Equipment and Accessories and Supplies
 2938,42282001,Automated endoscope reprocessor systems AERs,42282000,Instrument cleaning devices and accessories,42280000,Medical cleaning and sterilization products,42000000,Medical Equipment and Accessories and Supplies
 2939,42282010,Medical equipment and instrument disinfectant washing equipment,42282000,Instrument cleaning devices and accessories,42280000,Medical cleaning and sterilization products,42000000,Medical Equipment and Accessories and Supplies
 2940,42282017,Ultrasonic cleaning equipment,42282000,Instrument cleaning devices and accessories,42280000,Medical cleaning and sterilization products,42000000,Medical Equipment and Accessories and Supplies
@@ -285,15 +297,21 @@
 2976,42293104,Surgical mouth gags,42293100,Surgical retractors and related products,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 2977,42293107,Surgical retractors,42293100,Surgical retractors and related products,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 2978,42293303,Surgical speculas,42293300,Surgical distraction and compression and combination instruments and related product,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
+2979,42293304,Surgical spreaders,42293300,Surgical distraction and compression and combination instruments and related product,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 2980,42293309,Surgical depressors,42293300,Surgical distraction and compression and combination instruments and related product,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 2982,42293414,Introducer or guide pin or guidewire or glidewire or guide rod,42293400,Surgical manipulators and implant positioners and related products,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 2983,42293501,Irrigation or suction handpieces or cannulas or tips or catheters,42293500,Surgical suction and irrigation products,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
+2984,42293503,Surgical vacuum extraction devices or curettes or related products,42293500,Surgical suction and irrigation products,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 2985,42293504,Ophthalmic irrigation or aspiration supplies,42293500,Surgical suction and irrigation products,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 2986,42293509,Surgical irrigation sets,42293500,Surgical suction and irrigation products,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 2987,42293515,Medical or surgical suction tubings,42293500,Surgical suction and irrigation products,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 2988,42293522,Medical or surgical suction or vacuum appliances,42293500,Surgical suction and irrigation products,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 2989,42293523,Medical or surgical suction sets or kits,42293500,Surgical suction and irrigation products,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
+2990,42293603,Surgical sounds,42293600,Surgical bougies and sounds and related products,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 2992,42294203,General surgical instrument sets,42294200,Surgical instrument sets and systems,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
+2993,42294206,Ophthalmic surgery instrument sets,42294200,Surgical instrument sets and systems,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
+2994,42294212,Urological surgical instrument sets,42294200,Surgical instrument sets and systems,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
+2995,42294214,Tracheotomy surgical instrument sets,42294200,Surgical instrument sets and systems,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 2996,42294401,Vein harvest kits or systems,42294400,Vascular and cardiac systems,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 2999,42294509,Needles or cystomes for ophthalmic surgery,42294500,Ophthalmic specialty instruments and related products,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 3000,42294511,Ophthalmic surgical knives or blades,42294500,Ophthalmic specialty instruments and related products,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
@@ -306,12 +324,18 @@
 3011,42294712,Perfusion oxygen or hematocrit saturation monitors,42294700,Open heart perfusion equipment and monitors and accessories and related products,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 3012,42294713,Perfusion oxygenators,42294700,Open heart perfusion equipment and monitors and accessories and related products,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 3013,42294903,Endoscopic aspiration or biopsy needles,42294900,Endoscopic instruments,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
+3014,42294907,Endoscopic cytology or microbiology brushes,42294900,Endoscopic instruments,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
+3015,42294908,Endoscopic clamp or dissector or grasper or forceps,42294900,Endoscopic instruments,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
+3016,42294909,Endoscopic dilators or inflation devices,42294900,Endoscopic instruments,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 3017,42294913,Endoscopic hemostatic balloons or needles or tubes or accessories,42294900,Endoscopic instruments,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
+3018,42294914,Endoscopic instrument sets,42294900,Endoscopic instruments,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
+3019,42294927,Endoscopic instrument packs or trays or kits,42294900,Endoscopic instruments,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 3020,42294930,Endoscopic snares or snare wires,42294900,Endoscopic instruments,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 3021,42294933,Endoscopic suction or irrigation tips or coagulation probes,42294900,Endoscopic instruments,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 3022,42294972,Endoscopic or surgical light sources,42294900,Endoscopic instruments,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 3023,42295001,Endoscope maintenance units,42295000,Endoscopic equipment accessories and related products,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 3024,42295004,Endoscopic equipment or procedure carts,42295000,Endoscopic equipment accessories and related products,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
+3025,42295005,Endoscopic equipment sets,42295000,Endoscopic equipment accessories and related products,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 3027,42295105,Instrument tables for surgical or obstetrical delivery use,42295100,Surgical equipment and accessories and related products,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 3028,42295106,Lap mayo trays or mayo stands for surgical use,42295100,Surgical equipment and accessories and related products,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
 3029,42295108,Operating room patient fracture tables or orthopedic tables,42295100,Surgical equipment and accessories and related products,42290000,Surgical products,42000000,Medical Equipment and Accessories and Supplies
@@ -359,6 +383,10 @@
 3075,42312009,Medical staplers for internal use,42312000,Medical tissue closure and related products,42310000,Wound care products,42000000,Medical Equipment and Accessories and Supplies
 3076,42312010,Medical staplers for external use,42312000,Medical tissue closure and related products,42310000,Wound care products,42000000,Medical Equipment and Accessories and Supplies
 3077,42312018,Skin staple removers or kits,42312000,Medical tissue closure and related products,42310000,Wound care products,42000000,Medical Equipment and Accessories and Supplies
+3080,42312202,Suturing kits or trays or packs or sets,42312200,Sutures and related products,42310000,Wound care products,42000000,Medical Equipment and Accessories and Supplies
+3081,42312206,Suture needles,42312200,Sutures and related products,42310000,Wound care products,42000000,Medical Equipment and Accessories and Supplies
+3082,42312207,Suture removal kits or trays or packs or sets,42312200,Sutures and related products,42310000,Wound care products,42000000,Medical Equipment and Accessories and Supplies
+3083,42312208,Suture removers,42312200,Sutures and related products,42310000,Wound care products,42000000,Medical Equipment and Accessories and Supplies
 3140,43211708,Computer mouse,43211700,Computer data input devices,43210000,Computer Equipment and Accessories,43000000,Information Technology Broadcasting and Telecommunications
 3151,43211721,Punch card reader,43211700,Computer data input devices,43210000,Computer Equipment and Accessories,43000000,Information Technology Broadcasting and Telecommunications
 3231,43231518,Process mapping and design software,43231500,Business function specific software,43230000,Software,43000000,Information Technology Broadcasting and Telecommunications
@@ -370,6 +398,16 @@
 3331,43233206,Cloud-based protection or security software,43233200,Security and protection software,43230000,Software,43000000,Information Technology Broadcasting and Telecommunications
 3349,43233513,Cloud-based data access and sharing software,43233500,Information exchange software,43230000,Software,43000000,Information Technology Broadcasting and Telecommunications
 3494,45111815,Audio vidio console,45111800,Video and combination video and audio presentation equipment and hardware and controllers,45110000,Audio and visual presentation and composing equipment,45000000,Printing and Photographic and Audio and Visual Equipment and Supplies
+3513,45121601,Camera flashes or lighting,45121600,Camera parts and accessories,45120000,Photographic or filming or video equipment,45000000,Printing and Photographic and Audio and Visual Equipment and Supplies
+3514,45121602,Camera tripods,45121600,Camera parts and accessories,45120000,Photographic or filming or video equipment,45000000,Printing and Photographic and Audio and Visual Equipment and Supplies
+3515,45121603,Camera lens,45121600,Camera parts and accessories,45120000,Photographic or filming or video equipment,45000000,Printing and Photographic and Audio and Visual Equipment and Supplies
+3516,45121606,Camera harnesses,45121600,Camera parts and accessories,45120000,Photographic or filming or video equipment,45000000,Printing and Photographic and Audio and Visual Equipment and Supplies
+3517,45121613,Camera enclosures or covers,45121600,Camera parts and accessories,45120000,Photographic or filming or video equipment,45000000,Printing and Photographic and Audio and Visual Equipment and Supplies
+3518,45121622,Camera lens cleaners,45121600,Camera parts and accessories,45120000,Photographic or filming or video equipment,45000000,Printing and Photographic and Audio and Visual Equipment and Supplies
+3519,45121623,Camera controllers,45121600,Camera parts and accessories,45120000,Photographic or filming or video equipment,45000000,Printing and Photographic and Audio and Visual Equipment and Supplies
+3520,45121624,Photography light reflector,45121600,Camera parts and accessories,45120000,Photographic or filming or video equipment,45000000,Printing and Photographic and Audio and Visual Equipment and Supplies
+3521,45121628,Camera lens filter,45121600,Camera parts and accessories,45120000,Photographic or filming or video equipment,45000000,Printing and Photographic and Audio and Visual Equipment and Supplies
+3522,45121631,Electronic viewfinder,45121600,Camera parts and accessories,45120000,Photographic or filming or video equipment,45000000,Printing and Photographic and Audio and Visual Equipment and Supplies
 3553,46151604,Alcohol analyzers,46151600,Security and control equipment,46150000,Law enforcement,46000000,Defense and Law Enforcement and Security and Safety Equipment and Supplies
 3635,46181902,Acoustic ear muffs or defenders,46181900,Hearing protectors,46180000,Personal safety and protection,46000000,Defense and Law Enforcement and Security and Safety Equipment and Supplies
 3636,46181905,Ear plugs,46181900,Hearing protectors,46180000,Personal safety and protection,46000000,Defense and Law Enforcement and Security and Safety Equipment and Supplies
